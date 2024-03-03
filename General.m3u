@@ -1,0 +1,2108 @@
+#EXTM3U
+ # =======================================================
+# Playlist Name: Powervisionflix
+# Playlist ID: 
+# Playlist Date: 20 Febrero del 2024
+# =======================================================
+#EXTINF:-1,READY TV
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w214036631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teleantillas SD (RD)" tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="REP. DOM.",Teleantillas SD (RD)
+http://51.81.93.29:8084/hls/tantillas.m3u8
+#EXTINF:-1,GUAYMATE TV Canal 3
+https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w1091006799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4 Full HD (RD)" tvg-logo="https://i.imgur.com/WklLnd9.png" group-title="REP. DOM.",4 Full HD (RD)
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemicro HD (RD)" tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="REP. DOM.",Telemicro HD (RD)
+http://51.81.93.239:8084/hls/tmicro.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Orbit TV" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcategory%2FElectronics-Company%2FOrbit-Tv-948640941986348%2F&psig=AOvVaw0-ihijkIxXeU6NKRO5assL&ust=1642344706298000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKCzndiAtPUCFQAAAAAdAAAAABAm" group-title="REP. DOM.",Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w388706928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena7 SD (RD)" tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="REP. DOM.",Antena7 SD (RD)
+https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/Antena7DO/Antena7DO1/chunks.m3u8
+#EXTINF:-1,Bellavisión Canal 8
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Color Visión HD (RD)" tvg-logo="https://i.imgur.com/r98hVwB.png" group-title="REP. DOM.",Color Visión HD (RD)
+http://51.81.93.29:8084/hls/colorv.m3u8
+#EXTINF:-1,ONDA 10
+https://ss5.domint.net:3176/otv_str/ondatv/chunklist_w891711389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telesistema HD (RD)" tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="REP. DOM.",Telesistema HD (RD)
+https://tv.gmsiptv.com:5443/live/streams/telesistema.m3u8
+#EXTINF:-1,Telecanal 12
+https://rdn.essastream.com:3258/live/telecanal12live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecentro HD (RD)" tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="REP. DOM.",Telecentro HD (RD)
+http://51.81.93.29:8084/hls/telecentro.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CatorceTV HD (RD)" tvg-logo="https://i.imgur.com/jXHhJlJ.png" group-title="REP. DOM.",CatorceTV HD (RD)
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Digital Quince HD (RD)" tvg-logo="https://i.imgur.com/3dMYndw.png" group-title="REP. DOM.",Digital Quince HD (RD)
+http://51.81.93.29:8084/hls/d15.m3u8
+#EXTINF:-1,TELEUNION 16
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w508680712.m3u8
+#EXTINF:-1, N 16
+https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
+#EXTINF:-1,ENNTIVISION
+https://rdn.essastream.com:3356/live/enntivisiontvlive.m3u8
+#EXTINF:-1,CINEVISION CANAL 19
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
+#EXTINF:-1,NEXXO TV
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:-1, ANTENA 21
+https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/Canal21DO/Canal21DO1/chunks.m3u8
+#EXTINF:-1, TVS CANAL 22
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="Telefuturo.do" tvg-name="Telefuturo Canal 23" tvg-logo="https://i.imgur.com/Xo7EnqD.png" group-title="REP. DOMINICANA",Telefuturo Canal 23
+https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w305704668.m3u8
+#EXTINF:-1,MEGA CINE TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?DVR
+#EXTINF:-1,Canal 25
+https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
+#EXTINF:-1, VALLEVISION
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w507249067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RNN HD (RD)" tvg-logo="https://i.imgur.com/mSx4Eee.png" group-title="REP. DOM.",RNN HD (RD)
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
+#EXTINF:-1,Telecanal 28
+https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
+#EXTINF:-1,Teleuniverso Canal 29
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-1,Z 101 DIGITALTV
+https://zdigital.streamprolive.com/hls/live.m3u8
+#EXTINF:-1, CARIVISION
+https://ss5.domint.net:3174/car_str/carivision/chunklist_w1944682543.m3u8
+#EXTINF:-1,VTV
+https://video.misistemareseller.com/vtv/vtv/chunklist_w2118754867.m3u8
+#EXTINF:-1,HM TV
+https://cnn.essastream.com:3091/live/hmtvlive.m3u8
+#EXTINF:-1,PHTV canal 34
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:-1,SPORT VISION
+https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/chunklist_w829783446.m3u8
+#EXTINF:-1,BOREAL TV
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CDN37 SD (RD)" tvg-logo="https://i.imgur.com/UM1daLg.png" group-title="REP. DOM.",CDN37 SD (RD)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1654291201&e=1654291321&h=c1121592c4e0b91b7bda5a5e48c0f973
+#EXTINF:-1 tvg-id="" tvg-name="CDN Deportes  SD (RD)" tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="REP. DOM.",CDN Deportes  SD (RD)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/98c5ff12adca4abc9921e8e54f115092/chunklist_b4628000.m3u8?p=79&s=1708643189&e=1708643789&h=b0e5a7bae5b5713bbb020c93c45903c5
+#EXTINF:-1,CORAL 39
+https://tv.gmsiptv.com:5443/live/streams/coral.m3u8
+#EXTINF:-1,PUNTO TV
+https://ss5.domint.net:3042/ptv_str/puntotv/chunklist_w28272285.m3u8
+#EXTINF:-1, TELEVIDA
+https://rpn3.bozztv.com/ssh101/ssh101/televida/chunks.m3u8
+#EXTINF:-1, Galaxia Teve Canal 42
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
+#EXTINF:-1,Telenovisa 43
+https://ss5.domint.net:3058/tv43_str/tv43/chunklist_w1457378783.m3u8
+#EXTINF:-1,HM TV
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:-1,DAN TV
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8
+#EXTINF:-1, TELETUR
+https://cdn4.hostlagarto.com:8081/static/teletur/chunks.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="Ame HD" tvg-logo="https://i.imgur.com/FXRSd2J.png" group-title="REP. DOM.",Ame HD
+https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w471128982.m3u8
+#EXTINF:-1,Tele SANTO DOMINGO
+https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8?DVR
+#EXTINF:-1,MORRO TV
+https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8?DVR
+#EXTINF:-1,DELTA TV
+https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
+#EXTINF:-1,TNI 51
+https://ss5.domint.net:3188/tni_str/tni51/chunklist_w821986247.m3u8
+#EXTINF:-1,TELE IMPACTO TV
+https://vpss2003.streamprolive.com/hls/live.m3u8
+#EXTINF:-1,LUNA TV 53
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+#EXTINF:-1,D TV
+https://s.emisoras.tv:8081/dtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SUPER TV 55
+https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w1529390917.m3u8
+#EXTINF:-1,SOMO TV 56
+http://castv10.plugstreaming.com:1935/somos56/somos56/chunklist_w1745019396.m3u8
+#EXTINF:-1,TELECONTACTO
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/480p.m3u8
+#EXTINF:-1,T TV
+https://rctvhd.net:8081/tvoromanalive/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TELESUR LAS MATAS DE FARFAN
+https://ss3.domint.net:3124/tls_str/telesur/chunklist_w1220223854.m3u8
+#EXTINF:-1,CHINOLA TV
+https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8?DVR
+#EXTINF:-1,IMAGEN UNIVERSAL
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR
+#EXTINF:-1,LA VOZ DE MARIA
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w702753567.m3u8
+#EXTINF:-1,DIGITAL VISION 63
+https://ss5.domint.net:3024/dig_str/digitalvision63/chunklist_w970392133.m3u8
+#EXTINF:-1,TELE CIBAO
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8
+#EXTINF:-1,ROMANA TV
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8?DVR
+#EXTINF:-1,TIGUERITOS TV
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w510136383.m3u8
+#EXTINF:-1,NITIDA TV
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?DVR
+#EXTINF:-1 ,T CROM
+https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8?DVR
+#EXTINF:-1,TELEMILENIO
+https://cm.hostlagarto.com:4445/Telemilenio/Telemilenio.myStream/chunks.m3u8
+#EXTINF:-1,CIELO TV
+http://mycloudstream.akamaized.net/hls/live/2035990/ymty1j6r/1654571350463/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,VISION TV
+https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8?DVR
+#EXTINF:-1 ,MUSAVISION
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/chunks.m3u8?nimblesessionid=258351421&DVR
+#EXTINF:-1 ,GLOBAL TV
+https://ss3.domint.net:3136/gtv_str/globalhd/chunklist_w1601587817.m3u8
+#EXTINF:-1,TELEVISION DEL ESTE
+https://cm.hostlagarto.com:4445/ESTV/estv.myStream/chunks.m3u8
+#EXTINF:-1,LA 75 TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5a08806485a34fb0bc9dcffbb55f0fa8/chunklist_b4192000.m3u8
+#EXTINF:-1,CANAL DEL SOL
+https://canaldelsoltv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1,ALEJANDRO TV
+https://cdn2.streamgato.us/alegrandotv/alegrandotv/chunklist_w1124053874.m3u8
+#EXTINF:-1,PERAVIA VISION
+https://ss5.domint.net:3048/pvv_str/peravia/chunklist_w596392389.m3u8
+#EXTINF:-1,MAIMON TV DIGITAL
+https://ss9.domint.net:3038/mtvd_str/miamontv/chunklist_w976843335.m3u8
+#EXTINF:-1,OXIGENO TV DIGITAL
+https://tv.oxtvrd.net:3012/live/oxtv36live.m3u8?DVR
+#EXTINF:-1,FUEGO TV
+https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w293670824.m3u8
+#EXTINF:-1,AION
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8?DVR
+#EXTINF:-1,TELEALTURA 
+https://tunzilla.com/http://giezer.ddns.net:8080/hls/telealtura17.m3u8
+#EXTINF:-1,CADENA DEL MILAGRO
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w380671992.m3u8
+#EXTINF:-1,GALAXIA TV
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8?DVR
+#EXTINF:-1,LATINA TV INTERNACIONAL
+https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w1055921187.m3u8
+#EXTINF:-1,TELE CARIBE
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR
+#EXTINF:-1,PREGO TV
+https://cdn2.streamgato.us/pregotv/pregotv/chunklist_w1776370634.m3u8
+#EXTINF:-1,FRONTERA VISION
+https://cdn4.hostlagarto.com:8081/static/Reporterotv/chunks.m3u8?DVR
+#EXTINF:-1,VISION NDTV
+https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8?DVR
+#EXTINF:-1 ,DIMELO TV
+https://2-fss-2.themediacdn.com/pl_138/204248-2296390-1/chunklist.m3u8
+#EXTINF:-1,TELEMAX TV
+https://cdn2.streamgato.us/telemax/telemax/chunklist_w196617021.m3u8
+#EXTINF:-1,VISION 3000
+https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1605611562.m3u8
+#EXTINF:-1,ROCAVISION
+https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
+#EXTINF:-1,GH TELEVISION
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8?DVR
+#EXTINF:-1,HILANDO FINO
+https://primary-out.iptv-global.net/HilandoFinoTV/HilandoFinoTV/chunklist_w1132164497.m3u8
+#EXTINF:-1,C TV
+https://vdo2.streamgato.us:3978/live/ctvlive.m3u8?DVR
+#EXTINF:-1,CONSTANZA TV
+https://ss9.domint.net:3026/ctv8_str/contanzatv/chunklist_w548373149.m3u8
+#EXTINF:-1,SU MUNDO
+https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV PLATA
+https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w303039302.m3u8
+#EXTINF:-1,HORA EXTRA
+hhttps://cdn2.streamgato.us/horaxhoratelevision/horaxhoratelevision/chunklist_w1270555883.m3u8
+#EXTINF:-1,ACENTO TV
+https://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1,CASCARA TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w1639919973.m3u8
+#EXTINF:-1,MULTIVISION
+hhttps://cdn2.streamgato.us/canalmultivision/canalmultivision/chunklist_w1579474175.m3u8
+#EXTINF:-1,HITS 360
+https://cm.hostlagarto.com:4445/hits360tv/hits360HD.myStream/chunks.m3u8
+#EXTINF:-1,YUNA VISION
+https://ss9.domint.net:3036/yv_str/yunavision/chunklist_w1954383937.m3u8
+#EXTINF:-1,JIMANI TV
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w1256588717.m3u8
+#EXTINF:-1, MIAVISION
+https://cdn4.hostlagarto.com:8081/static/miavisiontv/chunks.m3u8?DVR
+#EXTINF:-1, TELE ORIENTAL DIGITAL
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?DVR
+#EXTINF:-1, FLOW 103 TV
+https://cdn.flow103fm.com:3034/live/flow103fmlive.m3u8
+#EXTINF:-1, TELE SEÑAL DOMINICANA
+https://cm.hostlagarto.com:4445/tsd12/TSD12.myStream/chunks.m3u8
+#EXTINF:-1, GUACARA TV
+https://cloudflare.streamgato.us:3180/live/guacaratvlive.m3u8?DVR
+#EXTINF:-1, VIVIENTE TV
+https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
+#EXTINF:-1, NARANJA TV
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8?DVR
+#EXTINF:-1, PLAY TV
+https://cdn4.hostlagarto.com:8081/static/playtv/chunks.m3u8?DVR
+#EXTINF:-1, SAN ISIDRO TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8?DVR
+#EXTINF:-1,CANELA TV
+https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8?DVR
+#EXTINF:-1,TV HIGUEY
+https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
+#EXTINF:-1,TELERADIO NORTE
+https://cdn4.hostlagarto.com:8081/static/teleradionortetv/chunks.m3u8?DVR
+#EXTINF:-1,TV MONTAÑA
+https://ss5.domint.net:3064/tvm_str/montanatv/chunklist_w1800498469.m3u8
+#EXTINF:-1,ECOVISION
+https://vdo1.streamgato.us:3014/live/ecovisionlive.m3u8?DVR
+#EXTINF:-1,COTUBANAMA
+https://radio.hostlagarto.com/9884/stream
+#EXTINF:-1,RUMBA 809 TV
+https://cdn.rumba809.com:3887/live/rumba809tvlive.m3u8
+#EXTINF:-1, TV RECUERDO 56
+https://cdn5.streamgato.us:3371/live/canal56live.m3u8?DVR
+#EXTINF:-1, FAROVISION
+https://5790d294af2dc.streamlock.net/8128/8128/chunklist_w1840147285.m3u8
+#EXTINF:-1, VILLA ALTAGRACIA TV
+https://inliveserver.com:1936/10016/10016/chunklist_w1746851402.m3u8
+#EXTINF:-1, TV SAN JUAN
+https://5790d294af2dc.streamlock.net/8224/8224/chunklist_w838780938.m3u8
+#EXTINF:-1, CTN
+https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w744073974.m3u8
+#EXTINF:-1, MI TV
+https://ss2.domint.net:3204/mitv_str/mitv/chunklist_w1346382017.m3u8
+#EXTINF:-1,XTREMO
+https://ss9.domint.net:3002/xtr_str/xtremochannel/chunklist_w1468881388.m3u8
+#EXTINF:-1, TU MUSICA
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8?DVR
+#EXTINF:-1, QUISQUEYA LA BELLA TV
+https://ss3.domint.net:3128/qlb_str/quisqueyatv/chunklist_w550461045.m3u8
+#EXTINF:-1, CANALDA
+https://canaldahd.hostlagarto.com:3546/live/canaldahdlive.m3u8
+#EXTINF:-1, MARIA VISION RV
+https://cm.hostlagarto.com:4445/merlavision/merlavision.myStream/chunks.m3u8
+#EXTINF:-1, AVE MARIA TV
+https://ss9.domint.net:3010/amt_str/avemariatv/chunklist_w460926165.m3u8
+#EXTINF:-1, RDN
+https://cm.hostlagarto.com:4445/rdn/rdn.myStream/chunks.m3u8?nimblesessionid=258538991&DVR
+#EXTINF:-1, TELEVER
+https://megastreamm.com:3484/live/televerlive.m3u8
+#EXTINF:-1, BAJO TECHO
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/chunks.m3u8?DVR
+#EXTINF:-1,DIGITAL 809 TV
+https://inliveserver.com:1936/digital809tv/digital809tv/chunklist_w717354908.m3u8
+#EXTINF:-1, CLARO VISION TV
+https://cdn2.streamgato.us/clarovision/clarovision/chunklist_w508501865.m3u8
+#EXTINF:-1, FEMENINA TV
+https://tv.oxtvrd.net:3572/live/femeninatvlive.m3u8?DVR
+#EXTINF:-1, URBAN CRISS TV
+https://5790d294af2dc.streamlock.net/8160/8160/chunklist_w1995162230.m3u8
+#EXTINF:-1, VISION GLOBAL
+https://stream.visionglobaltv.net:1936/visionglobal/visionglobal/chunklist_w1295155824.m3u8
+#EXTINF:-1, LA SUPER DISCOTECA
+https://canal.lasuperdiscotecatv.com:3020/live/lasuperdiscotecatvlive.m3u8
+#EXTINF:-1, RPC VISION TV
+https://cdn2.streamgato.us/rpcvisiontv/rpcvisiontv/chunklist_w1872291905.m3u8
+#EXTINF:-1, TELEBENDICION
+https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w131550965.m3u8
+#EXTINF:-1, FAJA TV
+https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/chunks.m3u8?nimblesessionid=259588420&DVR
+#EXTINF:-1, LINIEROS TV
+https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CpMFsOjV1tDhRjtgQXhku64U3h2s6QYbEKnwlILsUjonjPNRgB-KSrnV_S8QwQLucJuO9qc-EUxsBfhdGb-pGi8F3iIFkYRX_rfTzsVYZPbTgqa_F2iGOukKkYsGlx2S0Rlw_ot3rUiUSzy1ZdDD8YOYphLe4ZzlRSgx65F0DZ_X3AYRBS4YGXT_oByhZN3f1o-vnMl5CCRu6wCqBW4i-JKbToMv4CXSl5SLraFofDvDxU_DoyZJBUr9wxkY2fe4YJSMrDDPujMKabWfl2-9O1dd5CpOxIXo_h1NjlRD7_mBQIL4cqOJyzJ1zlI5fWAy2VsF4PphypC-LS1gPbg_MQevxWynu7UUcfDlzJBvAy25K54HWeNSY6GjldKnc6dodOmdidVRf-AAJ_DIIssnGcoargmmnNJ9HHl-Fl0fo71XAWAldZVeIG-6qweGzdkFPAGQsakjn4DN2CF7rS2LPdC4m4y6KQYS_XOeEjw93spfLc5XCxRNjmqD1pUUVoauABoI28HqZQiPZWSHhI9Xa2AQ0ro7NG8hwROIVFwbyznuxwZ1GbTvkIF1ssP_PYVxbgyl6EU4cjSyMnO55wZ-UaJXyYQGzsdo7AIvukYaZxmnAOYfeY9FtZnGRgCs-SLy9fqpeREQ8hEtK2sEXiO0sirw_twZQK7Ai9HVDGI0EM2GbQvMwnVFTDnpLpP5VaIKfm1d4evnq-gepo5jHzKUykuk2Qhb7EhEvcdd9UlOcXq_xOFyMlmZ6rQ0NYGjiAeHxKQ-v9xNvO-tT7eudzG3s9DAsvc5Q3af6ue0i_U8gFMeZc2VMZsuxcrKWwmFXzqJCZwuCAKi3-zfbhoHNsXoj02LDyZIbrstKxWj3dVphOaCnUSU6L4aDIlsS_6YqGy4JXSCMiABKgl1cy1lYXN0LTIwuQQ.m3u8
+#EXTINF:-1, TITANICO TV
+https://cdn2.streamgato.us/titanicotv/titanicotv/chunklist_w488532589.m3u8
+#EXTINF:-1, URBAN CRISS 2
+https://5790d294af2dc.streamlock.net/8090/8090/chunklist_w477859084.m3u8
+#EXTINF:-1,INFINITO TV
+https://ss5.domint.net:3024/intv_str/infinitotv/chunklist_w919268275.m3u8
+#EXTINF:-1,COMUNION TV
+https://6202d04ff2f0c.streamlock.net/live/stream/chunklist_w2568466.m3u8
+#EXTINF:-1,AGENDA 56
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
+#EXTINF:-1, LA FE MUEVE MONTALÑAS
+https://inliveserver.com:1936/10020/10020/chunklist_w1283088250.m3u8
+#EXTINF:-1,REPORTEROS TV
+https://cdn4.hostlagarto.com:8081/static/Reporterotv/chunks.m3u8?DVR
+#EXTINF:-1,SEÑALES TV
+https://live.teledom.info:4000/live/senalestvlive.m3u8?DVR
+#EXTINF:-1,RVIDA TV
+https://ss2.domint.net:3206/rv_str/rvida/chunklist_w1389516269.m3u8
+#EXTINF:-1,MISION EL TV
+https://5790d294af2dc.streamlock.net/8286/8286/chunklist_w226990284.m3u8
+#EXTINF:-1,H TV
+https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+#EXTINF:-1,ENLACE TV DOMINICANA
+https://1-349-11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
+#EXTINF:-1,ALEGRE TV
+https://cdn2.streamgato.us/%20ctvd/%20ctvd/chunklist_w1312420665.m3u8
+#EXTINF:-1,TELEAZUL
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
+#EXTINF:-1,AQUI TV
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8?nimblesessionid=259608829&DVR
+#EXTINF:-1,HISPANA TV
+https://tunzilla.com/http://newyorkstream.ddns.net:5854/enlacecanalamerica/encoderRD/chunklist_w997958832.m3u8
+#EXTINF:-1,TELEVISION DE LAS TERRENAS
+https://tunzilla.com/http://51.81.93.239:8084/hls/cdn.m3u8?DVR
+#EXTINF:-1,EVOLUCION TELEVISION
+https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
+#EXTINF:-1,GENERACIONES TV DIGITAL
+https://stmv3.voxtvhd.com.br/generacdig/generacdig/chunklist_w223120036.m3u8
+#EXTINF:-1,BUENA TV
+https://rdn.essastream.com:3883/live/buenatvlive.m3u8
+#EXTINF:-1,MASTER DIGITAL 55
+https://cloudflare.streamgato.us:3177/live/canatvlive.m3u8
+#EXTINF:-1,TIGUERITOS TV
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w367915049.m3u8
+#EXTINF:-1,Telenord 8 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1,Telenord 10 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:-1,Telenord 12
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:-1,Megavision Canal 43 Santiago (RD)
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w528858143.m3u8
+#EXTINF:-1,LVM (RD)
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w1124872790.m3u8
+
+**Extrangeros**
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
+
+https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX -1HR
+
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX -2HR
+
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
+
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", NU9VE
+
+https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", 4 GDL
+
+https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", 8 MTY
+
+https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", UNICABLE
+
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", UNIVISION
+
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", UNIVISION 24/7
+
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", EURO NEWS
+
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", ATV+ PE
+
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TN23
+
+https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", FORO TV
+
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", FORO TV
+
+https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", N+ MEDIA
+
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", N+ MEDIA
+
+https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", N+
+
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", N+ GDL
+
+https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
+#EXTINF:-1 group-title="Bics", N+ MTY
+
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
+***** https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN
+
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN
+
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN
+
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PREMIER
+
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", EDGE
+
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", DPELICULA
+
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", DPELICULA PLUS
+
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", DISTRITO COMEDIA
+
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", VIVO PLAY
+
+https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", NUESTRA VISION
+
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", CÑÑ
+
+https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", BANDAMAX
+
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MILENIO
+
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1  group-title="Bics", MARIA VISION
+
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+#EXTINF:-1  group-title="Bics", MARIA VISION CAPILLA
+
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", DISCOVERY H&H
+
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/1080
+#EXTINF:-1 group-title="Bics Extra", DISCOVERY H&H
+
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/3847
+
+
+#EXTINF:-1 group-title="Bics Extra LAT", CANAL 57 USA
+
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Bics Extra LAT", UNIVISION LATAM
+
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra LAT", TELEMUNDO LA
+
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 group-title="Bics Extra PA", TV  Max
+
+http://138.59.177.34:8000/play/a064/index.m3u8
+
+#EXTINF:-1 group-title="Bics Extra CO", RCN EXTRA CO
+
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra CO", RCN Mas+ CO
+
+https://linear-286.frequency.stream/mt/studio/286/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra CO", Canal Caracol CO
+
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/53.m3u8
+#EXTINF:-1 group-title="Bics Extra CO", Canal RCN CO
+
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/54.m3u8
+#EXTINF:-1 group-title="Bics Extra CO", RCN HD CO
+
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4325.m3u8
+
+
+#EXTINF:-1 group-title="Bics Extra CL", CANAL 21 CL
+
+https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
+#EXTINF:-1 group-title="Bics Extra CL", TVN CL
+
+http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/16.m3u8
+#EXTINF:-1 group-title="Bics Extra CL", Mega | CL
+
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Bics Extra CL", Chilevisión | CL
+
+http://201.222.44.220:4227/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Bics Extra CL", UChile TV | CL
+
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Bics Extra CL", Canal 13 | CL
+
+http://201.222.44.220:4227/play/a02l/index.m3u8
+
+
+#EXTINF:-1 group-title="Bics Extra", CNN
+
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Bics Extra", CNN
+
+https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
+
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 group-title="Bics Extra", LA 1 ES
+
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 group-title="Bics Extra", LA 2 ES
+
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 group-title="Bics Variados", ComedyC
+http://181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", CartoonNetwork
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Discovery kids
+http://181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", DH&H
+http://181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", TNTSE
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",SONY
+http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Uno
+http://181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",CANAL DE LAS ESTRELLAS
+http://181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Imagen
+http://181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Cinco
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Multimedios
+http://181.78.105.146:2000/play/a039/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Siete
+http://181.78.105.146:2000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",ONCE
+http://181.78.105.146:2000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Canal 14
+http://181.78.105.146:2000/play/a044/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",UNAM
+http://181.78.105.146:2000/play/a045/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Canal22
+http://181.78.105.146:2000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Congreso
+http://181.78.105.146:2000/play/a046/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",MVSTV
+http://181.78.105.146:2000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Universal
+http://181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Investigation Discovery La
+http://181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",TLC
+http://181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Lifetime
+http://181.78.105.146:2000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",HOLA
+http://181.78.105.146:2000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",E!
+http://181.78.105.146:2000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",VideRola
+http://181.78.105.146:2000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",TELER
+http://181.78.105.146:2000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",OnceKids
+http://181.78.105.146:2000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",DisneyJR
+http://181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",AprendeTV2
+http://181.78.105.146:2000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",IngenioTV
+http://181.78.105.146:2000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Discovery
+http://181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",NatGeo
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",History
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",History2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Arts
+http://181.78.105.146:2000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",CNNE
+http://181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Milenio
+http://181.78.105.146:2000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",TVC
+http://181.78.105.146:2000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Judicial
+http://181.78.105.146:2000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",CineCanal O
+http://181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Films
+http://181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",StudioUniversal
+http://181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", AGROTENDENCIA
+http://181.78.105.146:2000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Azteca 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", BANDAMAX
+http://181.78.105.146:2000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", CTV CANAL
+http://181.78.105.146:2000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Canal 27 GT
+http://181.78.105.146:2000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Caracol TV
+http://181.78.105.146:2000/play/a092/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Distrito Comedia
+http://181.78.105.146:2000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Fox Deportes
+http://181.78.105.146:2000/play/a093/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", GOLDEN EDGE
+http://181.78.105.146:2000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Gol TV
+http://181.78.105.146:2000/play/a094/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", SKY
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", STARZ 1
+http://181.78.105.146:2000/play/a097/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", TELENOVELAS
+http://181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", TN23
+http://181.78.105.146:2000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Tele Hit
+http://181.78.105.146:2000/play/a091/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Telemundo Miami
+http://181.78.105.146:2000/play/a096/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", TyC Sports
+http://181.78.105.146:2000/play/a095/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", UNICABLE
+http://181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", canal 13 Guate
+http://181.78.105.146:2000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", rf
+http://181.78.105.146:2000/play/a098/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", t13
+http://181.78.105.146:2000/play/a08c/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Bics Variados",ABC
+http://livex.pop-app.live/s4n/poplive/ch340/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ACCN ESPN
+http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",AFIZZIONADOS MX
+http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",AMC
+http://livex.pop-app.live/s4n/poplive/ch549/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ANIMAL PLANET
+http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ANTENA3
+http://livex.pop-app.live/s4n/poplive/ch351/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",AXS TV
+http://livex.pop-app.live/s4n/poplive/ch564/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",AZTECA CORAZON
+http://livex.pop-app.live/s4n/poplive/ch570/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",BABY TV LAT
+http://livex.pop-app.live/s4n/poplive/ch550/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",BIG NETWORK
+http://livex.pop-app.live/s4n/poplive/ch572/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",BITE ME LAT
+http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",BOOMERANG
+http://livex.pop-app.live/s4n/poplive/ch545/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",BravoTV
+http://livex.pop-app.live/s4n/poplive/ch316/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",CARACOL
+http://livex.pop-app.live/s4n/poplive/ch350/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",CBS Sports
+http://livex.pop-app.live/s4n/poplive/ch325/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",CNN
+http://livex.pop-app.live/s4n/poplive/ch218/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",CNN
+http://livex.pop-app.live/s4n/poplive/ch318/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",COOKING CHANNEL
+http://livex.pop-app.live/s4n/poplive/ch521/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",DISCOVERY
+http://livex.pop-app.live/s4n/poplive/ch571/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",DISCOVERY FAMILY
+http://livex.pop-app.live/s4n/poplive/ch526/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",DISCOVERY ID LAT
+http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",DISCOVERY TURBO LAT
+http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",E!
+http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN 2 MX
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN 3 MX
+http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN DEPORTES
+http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN MX
+http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN US
+http://livex.pop-app.live/s4n/poplive/ch329/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN USA
+http://livex.pop-app.live/s4n/poplive/ch313/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",FOOD NETWORK
+http://livex.pop-app.live/s4n/poplive/ch211/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Fox Deportes
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Fox Sa
+http://livex.pop-app.live/s4n/poplive/ch228/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",FOX SA
+http://livex.pop-app.live/s4n/poplive/ch312/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",FOX SPORT MX
+http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",FOX SPORTS 2 MX
+http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",FOX SPORTS 3 MX
+http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",FS1 US
+http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",FS2 USA
+http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",FX LAT
+http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",FXX
+http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",GAME SHOW
+http://livex.pop-app.live/s4n/poplive/ch535/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",GOL TV LAT
+http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",GOLF CHANNEL
+http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",GRIT
+http://livex.pop-app.live/s4n/poplive/ch563/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",H&H LAT
+http://livex.pop-app.live/s4n/poplive/ch524/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Hallmark
+http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",HBO FAMILY
+http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",HBO FAMILY LAT
+http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",HBO PLUS LAT
+http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",HBO SIGNATURE LAT
+http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",HG TV
+http://livex.pop-app.live/s4n/poplive/ch323/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",HISTORY
+http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",HISTORY
+http://livex.pop-app.live/s4n/poplive/ch342/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",HISTORY MX
+http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",HOME AND HEALTH LAT
+http://livex.pop-app.live/s4n/poplive/ch352/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ION
+http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ISAT LAT
+http://livex.pop-app.live/s4n/poplive/ch511/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",KENS5
+http://livex.pop-app.live/s4n/poplive/ch333/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",LIFETIME
+http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",MAS CHIC LAT
+http://livex.pop-app.live/s4n/poplive/ch519/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ME TV
+http://livex.pop-app.live/s4n/poplive/ch557/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",MLB NETWORK
+http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",MOTOR TREND
+http://livex.pop-app.live/s4n/poplive/ch528/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",NAT GEO
+http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",NAT GEO LAT
+http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",NBATV
+http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",NBCS SPORTS
+http://livex.pop-app.live/s4n/poplive/ch331/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",News 4
+http://livex.pop-app.live/s4n/poplive/ch309/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",NFL NETWORK
+http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",NICK TOONS
+http://livex.pop-app.live/s4n/poplive/ch513/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",NICKELODEON LAT
+http://livex.pop-app.live/s4n/poplive/ch512/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",outdoor
+http://livex.pop-app.live/s4n/poplive/ch324/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",OUTDOOR
+http://livex.pop-app.live/s4n/poplive/ch216/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",OWN
+http://livex.pop-app.live/s4n/poplive/ch566/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",PARAMOUNT NETWORK
+http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",SONY LAT
+http://livex.pop-app.live/s4n/poplive/ch506/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",sportnet
+http://livex.pop-app.live/s4n/poplive/ch229/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",TBS
+http://livex.pop-app.live/s4n/poplive/ch212/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",TELEMUNDO
+http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",TENNIS
+http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",TLC LAT
+http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",TNT
+http://livex.pop-app.live/s4n/poplive/ch337/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",TNT SERIES LAT
+http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",TRAVEL CHANNEL
+http://livex.pop-app.live/s4n/poplive/ch558/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",TRUE CRIME
+http://livex.pop-app.live/s4n/poplive/ch560/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",TUDN USA
+http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",UFC
+http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",UNIVISION
+http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Unknown_103
+http://livex.pop-app.live/s4n/poplive/ch574/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Unknown_18
+http://livex.pop-app.live/s4n/poplive/ch314/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Unknown_49
+http://livex.pop-app.live/s4n/poplive/ch500/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Unknown_50
+http://livex.pop-app.live/s4n/poplive/ch502/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Unknown_51
+http://livex.pop-app.live/s4n/poplive/ch503/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Unknown_54
+http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Unknown_59
+http://livex.pop-app.live/s4n/poplive/ch514/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Unknown_72
+http://livex.pop-app.live/s4n/poplive/ch529/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Unknown_74
+http://livex.pop-app.live/s4n/poplive/ch531/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Unknown_75
+http://livex.pop-app.live/s4n/poplive/ch533/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Unknown_81
+http://livex.pop-app.live/s4n/poplive/ch546/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Unknown_86
+http://livex.pop-app.live/s4n/poplive/ch553/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Unknown_92
+http://livex.pop-app.live/s4n/poplive/ch561/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",USA NETWORK
+http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",WINSPORT
+http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Bics DEPORTES", TIGO SPORTS
+
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", REAL MADRID TV
+
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", BEiN SPORT
+
+https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TUDN
+
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", AFIZZIONADOS
+
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TUDN
+
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TUDN
+
+https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ADRENALINA
+
+https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MLB
+
+https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 1
+
+https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 2
+
+https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 3
+
+https://linear-440.frequency.stream/mt/studio/440/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 4
+
+https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 5
+
+https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 6
+
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 7
+
+https://linear-361.frequency.stream/mt/studio/361/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 8
+
+https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 9
+
+https://linear-363.frequency.stream/mt/studio/363/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 10
+
+https://linear-364.frequency.stream/mt/studio/364/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 11
+
+https://linear-365.frequency.stream/mt/studio/365/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 12
+
+https://linear-366.frequency.stream/mt/studio/366/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 13
+
+https://linear-367.frequency.stream/mt/studio/367/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 14
+
+https://linear-368.frequency.stream/mt/studio/368/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 15
+
+https://linear-369.frequency.stream/mt/studio/369/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 16
+
+https://linear-370.frequency.stream/mt/studio/370/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 17
+
+https://linear-371.frequency.stream/mt/studio/371/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 18
+
+https://linear-372.frequency.stream/mt/studio/372/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 19
+
+https://linear-373.frequency.stream/mt/studio/373/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 20
+
+https://linear-374.frequency.stream/mt/studio/374/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 21
+
+https://linear-375.frequency.stream/mt/studio/375/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 22
+
+https://linear-376.frequency.stream/mt/studio/376/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 23
+
+https://linear-377.frequency.stream/mt/studio/377/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 24
+
+https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 25
+
+https://linear-379.frequency.stream/mt/studio/379/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 26
+
+https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 27
+
+https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 28
+
+https://linear-382.frequency.stream/mt/studio/382/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 29
+
+https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 30
+
+https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 31
+
+https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 32
+
+https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 2 | HD
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 3
+http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS HD
+http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 2 HD
+http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 3 HD
+http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", Afizzionados
+http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TUDN USA
+http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FOX DEPORTES
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN Extra  MX
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/21229
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 1 PE
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/220727
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1  SD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219173
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 PE HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219172
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219171
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 MX HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/9380
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 MX SD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185154
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 2 AR
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185666
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 2 MX HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36391
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 3  AR HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/21220
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 3 MX HD  ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/186774
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN Deportes SD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN Extra BRA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/168997
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Deportes
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36396
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 2 ARG HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19652
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 2 HD BRA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/48540
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 2 MEX HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19495
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 3 ARG HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19496
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 3 HD MEX
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/9538
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | SKY Sports 16 HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/149063
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | TNT Sports AR
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/211363
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | TNT Sports ARG
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | TNT Sports 3 HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19638
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | TUDN HD USA  ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185148
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | TUDN USA FHD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/242045
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | TUDN USA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/166029
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | TYC Sports Internacional HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/188939
+
+*** emilio ****
+
+#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 01 HD BACKUP HD
+http://936261971205770907.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770907.ts
+#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 1 VIP HD
+http://936261971205770908.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770908.ts
+#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 1 HD
+http://936261971205770909.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770909.ts
+#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 2 #BACKUP01 HD
+http://936261971205770910.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770910.ts
+#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 2 #BACKUP02 HD
+http://936261971205770911.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770911.ts
+#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 3 HD
+http://936261971205770912.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770912.ts
+
+*** cocina pepe ****
+
+#EXTINF:-1  group-title="Bics DEPORTES", ESPN Deportes
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
+
+#EXTINF:-1  group-title="Bics DEPORTES", Claro Sports HD 
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+
+#EXTINF:-1  group-title="Bics DEPORTES", Fox Deportes 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57388
+
+#EXTINF:-1  group-title="Bics DEPORTES", FOX Sports 
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1  group-title="Bics DEPORTES", FOX Sports 2
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1  group-title="Bics DEPORTES", FOX Sports 3
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1  group-title="Bics DEPORTES", ESPN 
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/26817
+#EXTINF:-1  group-title="Bics DEPORTES", ESPN 2
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
+#EXTINF:-1  group-title="Bics DEPORTES", ESPN 3
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
+#EXTINF:-1  group-title="Bics DEPORTES", TUDN MX
+http://280112626688710934.ofd0126.xyz:80/play/edu.ronda1107@gmail.com/UBMtxMDgjb/710934.ts
+#EXTINF:-1  group-title="Bics DEPORTES", ITV Deportes 
+https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
+#EXTINF:-1  group-title="Bics DEPORTES", Golazo Network 
+https://r.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
+#EXTINF:-1  group-title="Bics DEPORTES", LIGA M+ 
+http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
+
+#EXTINF:-1  group-title="Bics DEPORTES", TUDN US
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/177323
+
+
+
+#EXTINF:-1,Watchmen Broadcasting
+https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1233458/playlist.m3u8
+#EXTINF:-0, Cine DRAMA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0af9c627-a909-11eb-8ea0-0242ac110002&sid=0af9c627-a909-11eb-8ea0-0242ac110002&userId=
+#EXTINF:-0, MOVIE SUSPENSO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=e65ba567-a904-11eb-8236-0242ac110002&sid=e65ba567-a904-11eb-8236-0242ac110002&userId=
+#EXTINF:-0, Cine STELAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1f573f5b-a906-11eb-881a-0242ac110002&sid=1f573f5b-a906-11eb-881a-0242ac110002&userId=
+#EXTINF:-0, Cine COMEDiA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eac76929-a906-11eb-b429-0242ac110002&sid=eac76929-a906-11eb-b429-0242ac110002&userId=
+#EXTINF:-0, Cine ACCIÓN 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7f8dd34a-a907-11eb-9c6e-0242ac110002&sid=7f8dd34a-a907-11eb-9c6e-0242ac110002&userId=
+#EXTINF:-0, Cine TERROR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b8031783-a909-11eb-b521-0242ac110002&sid=b8031783-a909-11eb-b521-0242ac110002&userId=
+#EXTINF:-0, Cine CLASiCOS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d7e38534-a90a-11eb-9e54-0242ac110002&sid=d7e38534-a90a-11eb-9e54-0242ac110002&userId=
+#EXTINF:-0 Cine FAMiLiAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=723b19b8-a90b-11eb-b4a3-0242ac110002&sid=723b19b8-a90b-11eb-b4a3-0242ac110002&userId=
+#EXTINF:-0, SERIES 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=723b19b8-a90b-11eb-b4a3-0242ac110002&sid=723b19b8-a90b-11eb-b4a3-0242ac110002&userId=
+#EXTINF:-0, Series RETRO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=737828ef-a90c-11eb-91cc-0242ac110002&sid=737828ef-a90c-11eb-91cc-0242ac110002&userId=
+
+#EXTINF:-1,Tele 2 web
+https://inliveserver.com:1936/11516/11516/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TelePacifico HD
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Telesol San Juan (Cine)
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Nasa TV
+http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1,TV BRICS English
+https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MTV BiggestPOP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1,baraza FHD greek music hits
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1,baraza FHD greek 2
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=vietngatv
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1,FashionTV L'Original
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1,Pluto TV Fashionbox
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,  Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,AFV Español
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8?ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5ef4e1b10d9ad000423c4421&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1,AFV Family
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1,All Reality WE tv
+https://2753b02d55774ab6866ce10aba8ad6fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AbsoluteReality/playlist.m3u8?ads.wurl_channel=475&ads.wurl_name=AbsoluteReality&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5fc705ff2f220e002d5e6bec&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,All Weddings WE tv
+https://222369813f3845d48548df2608cff33d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AllWeddingsbyWEtv/playlist.m3u8?ads.wurl_channel=695&ads.wurl_name=AllWeddingsbyWEtv&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=60de0520281b17002cd1d4c4&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,BABY SHARK TV
+https://b804413309624ef1b04591c47e82e14c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_BabySharkTV/playlist.m3u8?ads.wurl_channel=696&ads.wurl_name=BabySharkTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=60d4eddeb2fdec002c141137&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,Euronews
+https://38d9c83374e046d8b82e01a6b699ac9d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsWorld/playlist.m3u8?ads.wurl_channel=670&ads.wurl_name=EuronewsWorld&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=60089d90f682a3002c348299&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,FTF Free Sports
+https://d305d0233e434638bc8be2ce61a28e3c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FTFNextUS/playlist.m3u8?ads.wurl_channel=246&ads.wurl_name=FTFNextUS&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=605a309dc5acdc002c7a20aa&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8?ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.channel_id=5fd115bdb7ef8d002dcf1820&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
+#EXTINF:-1,IFC Films Picks
+https://423a4f21fb8d45a4a7e4bd304a14e2f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_IFCFilmsPicks/playlist.m3u8?ads.wurl_channel=563&ads.wurl_name=IFCFilmsPicks&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5fc705eb052f6f002ef46057&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,Kidoodle TV
+https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/playlist.m3u8?ads.wurl_channel=484&ads.wurl_name=KidoodleTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5eea605574085f0040ddc79a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.coppa=1&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,Kids Pang TV
+https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,Law & Crime
+https://0e6490ecfe9b4c7696b00aa6767caa75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LawAndCrime/playlist.m3u8?ads.wurl_channel=226&ads.wurl_name=LawAndCrime&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5eea605674085f0040ddc79d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,Maverick Black Cinema
+https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=527&ads.wurl_name=MaverickBlackCinema&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5ef4e1b40d9ad000423c4430&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,News 12 New York
+https://e8b8ddf2155a4a0e90aa8a11325f1f7d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_News12NewYork/playlist.m3u8?ads.wurl_channel=676&ads.wurl_name=News12NewYork&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5fc6f3a62b6f7b002e77ffaa&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,Newsy
+https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8?ad=plex&ad.rdid=62274240-07e7-5d94-8dc8-ef68cf19e175&ad.is_lat=0&ad.msid=com.plexapp.android&ad.an=plex&ad.idtype=&expand=plex&ad.cust_params=bidders%3Dpublica%26ip%3D%5BInsert_IP%5D%26ua%3D%5BInsert_UA%5D%26plex_token%3DAXowwV4PZ7mDzhmMsHmH%26plex_id%3D5fc705dda2236e002d69f211
+#EXTINF:-1,Nosey
+https://9c27771bc8af464c8588ae326fe26edd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Nosey/playlist.m3u8?ads.wurl_channel=319&ads.wurl_name=Nosey&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f0ff262d71dcb00449ec015&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,OnDemandChina
+https://be0102fb526c4b05b37b45f2e6200c67.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_OnDemandChina/playlist.m3u8?ads.wurl_channel=899&ads.wurl_name=OnDemandChina&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=60d4edd7b2fdec002c14112b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,Pattrn
+https://linear-76.frequency.stream/dist/plex/76/hls/master/playlist.m3u8?ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=608a2c722957c9002c6a6179&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1,Popstar! TV
+https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8?ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5ef11487d33ab9004048a1d6&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1,Revry
+https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8?ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5ef11487d33ab9004048a1d9&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1,RevryNews
+https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8?ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f458dded93f4a0041cb1f63&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1,Real Nosey
+https://1022d09cb9f743d0b7bd7fc0fd7eab26.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RealNosey/playlist.m3u8?ads.wurl_channel=349&ads.wurl_name=RealNosey&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f0ff262d71dcb00449ec018&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,Stadium
+https://7bfb0497795c4d3db90a041bf4cbdae6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f6142d2fc6ce20041ec3c92&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,Stories by AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8?ads.wurl_channel=474&ads.wurl_name=AMCPresents&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5fc705e2a2236e002d69f3ba&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,Tankee
+https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/playlist.m3u8?ads.wurl_channel=503&ads.wurl_name=Tankee&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5efe1de5e0b3f5003f5d9f7f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,The Boat Show
+https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/playlist.m3u8?ads.wurl_channel=529&ads.wurl_name=TheBoatShow&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5efe1de6e0b3f5003f5d9f82&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,The Carol Burnett Show
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnettshow-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=AXowwV4PZ7mDzhmMsHmH&channelId=60d4edd6b2fdec002c141125
+#EXTINF:-1,The Design Network
+https://9215cc5c363c4ed297905b3ca9195080.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TheDesignNetwork-2/playlist.m3u8?ads.wurl_channel=553&ads.wurl_name=TheDesignNetwork&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f0641d3e8ffda004033b16e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,The Preview Channel
+https://c9443ab8267e4f3abb2e44f26ca6967a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ThePreviewChannel/playlist.m3u8?ads.wurl_channel=501&ads.wurl_name=ThePreviewChannel&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=608083444363b700366942df&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,The Walking Dead Universe
+https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,The World Poker Tour
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8?ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.channel_id=5f6b8e7900b0950040d0f2b2&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
+#EXTINF:-1,USA TODAY Sportswire
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaysports-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=AXowwV4PZ7mDzhmMsHmH&channelId=60df3e18541143002f3b8609
+#EXTINF:-1,Wired2Fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8?ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=608a2c722957c9002c6a617b&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1,Tiny House Nation
+https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel=675&ads.wurl_name=TinyHouseNation&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,CBS News
+https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live;imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com/live&imafw__fw_did=tifa:%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D
+#EXTINF:-1,LiveNOW from FOX
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Bloomberg TV+ UHD
+https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Cheddar News
+https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8?ads.wurl_channel=575&ads.wurl_name=Cheddar&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Real America's Voice
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,TYT Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Lucky Dog
+https://d2eb12ehm31yjp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LuckyDog2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Danger TV
+https://5341c1d388b14862b8068a90cc80e062.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DangerTV/playlist.m3u8?ads.wurl_channel=161&ads.wurl_name=DangerTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Nosey
+https://462bd08912cf434db68a3d3d74e0228c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Nosey/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=319&ads.wurl_name=Nosey&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Circle
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-circle-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,VICE
+https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Brat TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-bratus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:-1,FOX SOUL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-soul-samsung/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Crime 360
+https://dab88d35ef5b44ec99be60adef855bf2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Crime360/playlist.m3u8?ads.wurl_channel=393&ads.wurl_name=Crime360&ads.psid=%7BPSID%7D&ads.us_privacy=1YNY&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,The New Detectives
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,BUZZR
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Game Show Central
+https://855649d1dca1413dad89e627e1727d97.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GameShowCentral/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Stadium
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Pac-12 Insider
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,IMPACT Wrestling
+https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,SURF NOW TV
+https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Insight TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insighttv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Outside TV+
+https://c185ba78559f47b79f8079be89884d03.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_OutsideTV/playlist.m3u8?ads.wurl_channel=143&ads.wurl_name=OutsideTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,People Are Awesome
+https://ab8957f603f74b00bb0517913c452ea5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=385&ads.wurl_name=PeopleAreAwesome&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Hungry
+https://9bfce4d7d1834266b2953afe3deb1e8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Hungry/playlist.m3u8?ads.wurl_channel=140&ads.wurl_name=Hungry&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Lively Place
+https://7692a37649e54bef83adeea10f21aef0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_LivelyPlace/playlist.m3u8?ads.wurl_channel=285&ads.wurl_name=LivelyPlace&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Kitchen Nightmares
+https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,MTV Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Dallas Cowboys Cheer
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Estrella TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Estrella News
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Sony Canal Competencias
+https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Sony Canal Novelas
+https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Novelas con la abuela
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Amantes del romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,¡Spike extremo!
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,The Pet Collective
+https://fe07c0dd11534a65815a0082414c41c3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThePetCollective/playlist.m3u8?ads.wurl_channel=136&ads.wurl_name=ThePetCollective&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,FailArmy
+https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/playlist.m3u8?ads.wurl_channel=89&ads.wurl_name=FailArmy&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Dry Bar Comedy
+https://ed26e7d0159f4266a552c44f68472edc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DryBarComedy/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=370&ads.wurl_name=DryBarComedy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Comedy Dynamics
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/cinedigm-samsung-comedy-dynamics-clean/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,RiffTrax
+https://5534f4bba48d427a9cb347656144a438.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Rifftrax/playlist.m3u8?ads.wurl_channel=142&ads.wurl_name=Rifftrax&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,IGN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,VENN
+https://venntv-samsungus.amagi.tv/hls/amagi_hls_data_venntvAAA-venntv-samsung-us/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Moonbug Anime
+https://d30kp0xfvvs2gr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&coppa=1
+#EXTINF:-1,The LEGO Channel Anime
+https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&coppa=1
+#EXTINF:-1,Kidoodle.TV Anime
+https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=414&ads.wurl_name=KidoodleTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:-1,Samsung Wild Life
+https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Paramount Movie Channel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Hallmark Movies & More
+https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,MovieSphere
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Pluto TV Fantastic
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Maverick Black Cinema
+https://995059ba59a44c949b7b00ce255a4861.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=451&ads.wurl_name=MaverickBlackCinema&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,CINEVAULT: 80s
+https://fb9770c9cf584d64b3c5e3a26637d5ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cinevault80s/playlist.m3u8?ads.wurl_channel=691&ads.wurl_name=Cinevault80s&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,CINEVAULT: Westerns
+https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/playlist.m3u8?ads.wurl_channel=690&ads.wurl_name=CinevaultWesterns&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Pluto TV Westerns
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,The Preview Channel
+https://cca0faa1668740379640339007b036ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThePreviewChannel/playlist.m3u8?ads.wurl_channel=501&ads.wurl_name=ThePreviewChannel&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,15TV Sabinas  | MX
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,8 NTV  | MX
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 10 Cancun  | MX
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 4 Saltillo  | MX
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Jalisco TV  | MX
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Mexiquense TV  | MX
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Telemax Hermosillo  | MX
+http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
+#EXTINF:-1,TRC TV Campeche  | MX
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TV Lobo  | MX
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TV4 Noticias  | MX
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Euro Indie Music  | GB
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Alcance TV  | MX
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,15TV Sabinas Anime | MX
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,8 NTV  | MX
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 10 Cancun  | MX
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 4 Saltillo  | MX
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Jalisco TV  | MX
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Mexiquense TV  | MX
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Telemax Hermosillo  | MX
+http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
+#EXTINF:-1,TRC TV Campeche  | MX
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TV Lobo  | MX
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TV4 Noticias  | MX
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Alcance TV  | MX
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,15TV Sabinas  | MX
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 10 Cancun  | MX
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 4 Saltillo  | MX
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Jalisco TV  | MX
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Mexiquense TV  | MX
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,13 Max Television  | AR
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Aire de Santa Fe  | AR
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 10 Rio Negro  | AR
+https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 12 Madryn TV  | AR
+https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 13 Jujuy  | AR
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 13 La Rioja  | AR
+http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 20 Villamaria  | AR
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 22 Buenos Aires  | AR
+https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 3 Las Flores Digital  | AR
+https://inliveserver.com:1936/8436/8436/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 5 Pico Truncado  | AR
+http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal Coop  | AR
+https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal Provincial  | AR
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8?PlaylistM3UCL
+#EXTINF:-1,Celta TV  | AR
+https://vivo.solumedia.com:19360/celta/celta.m3u8?PlaylistM3UCL
+#EXTINF:-1,Chacra TV  | AR
+https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,CN 24/7 Neuquen  | AR
+https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Multivisión  | AR
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Power  | AR
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
+#EXTINF:-1,RTN  | AR
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Tele Estrella  | AR
+https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Telecreativa  | AR
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TeleNord  | AR
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Uni Teve  | AR
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
+#EXTINF:-1,RTP (Bolivia)
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
+#EXTINF:-1,ATB  (Bolivia)
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1,Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w1507762007.m3u8
+#EXTINF:-1,Mega Plus (Chile)
+http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
+#EXTINF:-1,Holvoet TV Anime (Chile)
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:-1,Cali TV (Colombia)
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1, Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/.m3u8
+#EXTINF:-1,CDM
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w335764602.m3u8
+#EXTINF:-1,AvivamientoTV
+https://s2.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1,Wow TV (Cine)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,Digital809TV
+https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
+#EXTINF:-1,CGTN EspaÃ±ol (Opt-1)
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,Filmon 360
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+#EXTINF:-1,Canal MÃ¡laga
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1,M95 Marbella
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1,Canal 25 Barbastro TV
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:-1,Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1,Canal 4 Villarobledo
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1,TVG
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,TV Ferrol
+https://directo.tvferrol.es/tv.m3u8
+#EXTINF:-1,Solidaria TV
+http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1,TeleRibera
+http://37.187.7.106/teleribera/live.m3u8
+#EXTINF:-1,RiberaTV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1,30A TV
+http://30a-tv.com/my999.m3u8
+#EXTINF:-1,Law & Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1,BBC World News (GB) (Opt-3)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,CGTN (CN) (Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1,CGTN (CN) (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1,30A Music
+https://30a-tv.com/music.m3u8?fluxustv.m3u8
+#EXTINF:-1,30A TV
+https://30a-tv.com/my999.m3u8?fluxustv.m3u8
+#EXTINF:-1,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1,Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,CBS News (Opt-2)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1,Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,Investment Pitch
+https://www.30a-tv.com/InvPit.m3u8?fluxustv.m3u8
+#EXTINF:-1,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1,Law & Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1,Loomered TV
+https://30a-tv.com/loomer.m3u8?fluxustv.m3u8
+#EXTINF:-1,New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1,Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,Nothing Scripted
+https://30a-tv.com/NothingScripted.m3u8?fluxustv.m3u8
+#EXTINF:-1,RedBox Battery Pop
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1,RedBox Comedy
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+#EXTINF:-1,RedBox Maverick Movies
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1,RedBox Rush
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+#EXTINF:-1,RedBox Spotlight
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
+#EXTINF:-1,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1,Connecticut Network
+http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
+#EXTINF:-1,Connecticut Network (Court Feed)
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
+#EXTINF:-1,DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,Glendale 11
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:-1,White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:-1,Los Angeles: CBS News
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1,Madison: NBC 15 News
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1,Monroe: KNOE 8 News
+https://dai2-playlistserver.aws.syncbak.com/playlist/893553/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjcyMzUsImlzcyI6IldMUyIsIm1kNSI6IjM5YWE1ZjczMTgyYTg0NThiY2QzOTcxMjQzYzVhZDc1IiwibWlkIjoiODkzNTUzIn0.v4oZTq8PnYSg_UAfc_nt9tO2ThQy44A-F8-colQ2Ijg
+#EXTINF:-1,Omaha: 3News Now
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1,Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1,Law & Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1,ET Live
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live;imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.etonline.com/live&imafw__fw_did=tifa:%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D
+#EXTINF:-1,Wild 'N Out
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Anime All day
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Paramount Movie Channel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,UMTV  | MX
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Euro Indie Music  | GB
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,8 NTV  | MX
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TRC TV Campeche  | MX
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TV Lobo  | MX
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TV4 Noticias  | MX
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,UMTV  | MX
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Euro Indie Music  | GB
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Alcance TV  | MX
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 4 Jujuy  | AR
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Multivision Federal (Argentina)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1,Canal 10 Rio Negro (Argentina)
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1,Radio TV Neuquen (Argentina)
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:-1,TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1,The Shopping Channel (CanadÃ¡)
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1,Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1,Chile 5 FTA
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
+#EXTINF:-1,TVG Musigal
+http://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,TVG Cultura
+http://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,TVG Momentos G
+http://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,TVG Evento 1
+http://events1-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,TVG Evento 5
+http://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,Channel 7
+http://radio.7chan.org:8000/CH7
+#EXTINF:-1,Comedy Dynamics
+http://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+#EXTINF:-1,Darcizzle Offshore
+https://30a-tv.com/darcizzle.m3u8?fluxustv.m3u8
+#EXTINF:-1,Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,Sidewalks
+https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
+
+
+#EXTINF:-1,Euro Indie Music  | GB
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+#EXTINF:-1,Aliento Vision (PR)
+http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
+#EXTINF:-1,CTNI (Puerto Rico)
+https://584097344c1f0.streamlock.net/48/48.smil/chunklist_w379990319_b1564000_sleng.m3u8
+
+
+#EXTINF:-1,Logos TV (EspaÃ±a)
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1,Red Advenir (Bolivia)
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/chunklist_w1291195276.m3u8
+
+#EXTINF:-1,TV CRET
+https://radiocret.net:8082/hls/tvcret.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="70.83",GDM TV
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w2090092730.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="70.88",CGTN Espanol
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="70.89",EXTREMA TV HD
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1014056279.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="70.90",RCN Mas HD
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="71.02 ",Canal 33 Madrid
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w570072455.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="71.03",Comet
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="71.04 ",Stadium Sports Channel
+https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="71.05",Colimdo TV
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="71.07",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-chno="71.08",FTF Sports HD
+https://eleven-rebroadcast-samsung.plex.wurl.com/manifest/72942e25cdf7daeaba1a736facb01dfb.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.13",DW HD
+http://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.14",Newsmax HD
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.15 ",HLN HD
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8?
+#EXTINF:-1 tvg-id="" tvg-chno="68.18",TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.20",Smithsonian Channel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-chno="68.23",Mega TV
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/chunklist_w16709719_b978000.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.24",Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.25",Wapa Puerto Rico
+https://live.field59.com/wapa/wapa1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.50",24 Horas
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.51",TV Marti
+https://ocb-ingest.akamaized.net/hls/live/2037032-b/tvmc01/OCB-TVMC01_0720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.52",Hispantv
+https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w111474388_b644100_slen.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.53",CNN Espanol HD
+http://zwdbbyr.vpnprime.xyz:80/4740360226/4823774896/176882
+#EXTINF:-1 tvg-id="" tvg-chno="68.54",Telesur Venezuela
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="70.01",Bebeto TV
+https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="68.10",Nasa
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.11",Aljazeera HD
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8?
+#EXTINF:-1 tvg-id="" tvg-chno="68.12",RT Espanol
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.5",News 12 New York
+https://lnc-news12.tubi.video/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-chno="68.6",WeatherNation
+https://weathernationtv.roku.wurl.com/manifest/0f47815bd66ffb3b8cb4ca6c9560f535.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.7",The Weather Channel HD
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+
+#EXTINF:-1, TELEMUNDO PUERTO RICO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
+#EXTINF:-1,Wow TV (Cine)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1, Mytime Movie Network
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Redbox Comedy
+https://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1, Redbox spotlight
+https://spotlight-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1, Redbox Rush
+https://rush-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1, Movie Sphere
+https://moviesphere-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1, DW ENG
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1, Nuevo tiempo
+https://stream.live.novotempo.com/tv/tvnuevotiempo.smil/.m3u8
+#EXTINF:-1,Retro
+https://stream.mediawork.cz/retrotv/retrotv2.smil/.m3u8
+#EXTINF:-1, Teletrak
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1, Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, Canal 6 Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1, Turistik TV
+https://5fa5de1a545ae.streamlock.net/8030/8030/chunklist_w160998176.m3u8
+#EXTINF:-1, Mexiquense
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1, TVMas
+https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+#EXTINF:-1, 15 TV Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/.m3u8
+#EXTINF:-1, Canal 26
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1, TVP Culiacan
+https://5ca3e84a76d30.streamlock.net/gpacifico1/gpculiacan.smil/.m3u8
+#EXTINF:-1, TVP Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
+#EXTINF:-1, TVP Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/.m3u8
+#EXTINF:-1, TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net/gpacifico4/mazatlan.smil/.m3u8
+#EXTINF:-1, TV4.1
+https://5ca3e84a76d30.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1, VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1, TV SUR Perez Zeledon
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+#EXTINF:-1, Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1, Teleuno
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1, STV
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1, Nicoya TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1, Santa Cruz TV
+https://rtmp.info/tvsantacruz/envivo/playlist.m3u8?_=1
+#EXTINF:-1, Telefides
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
+#EXTINF:-1, 88 stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1, Q-Hubo TV
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+#EXTINF:-1, Cosmovision
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:-1, Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/.m3u8
+#EXTINF:-1, Telepacifico
+https://stream.logicideas.media/telepacifico-live/live.smil/.m3u8
+#EXTINF:-1, Canal 9 Bio Bio
+https://unlimited1-us.dps.live/c9/c9.smil/c9/livestream0/chunks.m3u8
+#EXTINF:-1, EP
+https://streaming.elpinguino.com:5391/live/EP.smil/.m3u8
+#EXTINF:-1, Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1, Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1, Canal 26 ARG
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1, Tierra Mia TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1, Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1, Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
+#EXTINF:-1, 13Max
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/.m3u8
+#EXTINF:-1, La 1 ES
+https://rtvelivestreamv3.akamaized.net/la1/la1_main_dvr.m3u8
+#EXTINF:-1, RTVE 24h
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_576.m3u8
+#EXTINF:-1, Bolivia TV
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1, Bolivia TV 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1,  RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1, BhTV
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1, Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1,Wow TV (Cine)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1, WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1, Mytime Movie Network
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Redbox Comedy
+https://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1, Redbox spotlight
+https://spotlight-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1, Redbox Rush
+https://rush-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1, Movie Sphere
+https://moviesphere-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1, DW ESP
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1, DW ENG
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1, Teletrak
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1, Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, Canal 6 Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1, Turistik TV
+https://5fa5de1a545ae.streamlock.net/8030/8030/chunklist_w160998176.m3u8
+#EXTINF:-1, Mexiquense
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1, TVMas
+https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+#EXTINF:-1, 15 TV Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/.m3u8
+#EXTINF:-1, Canal 26
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1, TVP Culiacan
+https://5ca3e84a76d30.streamlock.net/gpacifico1/gpculiacan.smil/.m3u8
+#EXTINF:-1, TVP Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
+#EXTINF:-1, TVP Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/.m3u8
+#EXTINF:-1, TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net/gpacifico4/mazatlan.smil/.m3u8
+#EXTINF:-1, TV4.1
+https://5ca3e84a76d30.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1, VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1, TV SUR Perez Zeledon
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+#EXTINF:-1, Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1, Teleuno
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1, Telesistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/master.m3u8
+#EXTINF:-1, STV
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1, Nicoya TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1, Santa Cruz TV
+https://rtmp.info/tvsantacruz/envivo/playlist.m3u8?_=1
+#EXTINF:-1, Telefides
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
+#EXTINF:-1, 88 stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1, Q-Hubo TV
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+#EXTINF:-1, Ten Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLIVEHD_2/playlist.m3u8
+#EXTINF:-1, Cosmovision
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:-1, Telepacifico
+https://stream.logicideas.media/telepacifico-live/live.smil/.m3u8
+#EXTINF:-1, Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/.m3u8
+#EXTINF:-1, Canal 9 Bio Bio
+https://unlimited1-us.dps.live/c9/c9.smil/c9/livestream0/chunks.m3u8
+#EXTINF:-1, EP
+https://streaming.elpinguino.com:5391/live/EP.smil/.m3u8
+#EXTINF:-1, Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1, Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1, Canal 26 ARG
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1, Tierra Mia TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1, Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1, Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
+#EXTINF:-1, 13Max
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/.m3u8
+#EXTINF:-1, La 1 ES
+https://rtvelivestreamv3.akamaized.net/la1/la1_main_dvr.m3u8
+#EXTINF:-1, RTVE 24h
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_576.m3u8
+#EXTINF:-1, Bolivia TV
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1, Bolivia TV 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1,  RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1, BhTV
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1, Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1, Agro Brazil
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+**	Antilas Holandesas**
+#EXTINF:-1 tvg-id="" tvg-name="Nos Tv Bonaire" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flive-tv-channels.org%2Flivetv%2Fbq-nos-tv-bonaire.html&psig=AOvVaw07U1fh_bAUqnyVm8PuTeTg&ust=1648162790843000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIinvf-q3fYCFQAAAAAdAAAAABAZ" group-title="Ant. Holandesas",Nos TV Bonaire
+http://streaming.flamingotv.net/nostv/live.m3u8
+#EXTINF:-1,Telearuba (Opt-2)
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4PiLKrm.png" group-title="K.PREMIUM",Estrella TV 
+https://estrellatv-glewed.amagi.tv:443/playlistR720P.m3u8
+#EXTINF:-1, CBN Español
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+
+#EXTINF:-1,CNN E
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8
+
+#EXTINF:-1, BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1, Newsmax
+https://newsmax-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1, Usa Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1, Flashback 70's
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1, Remember the 80s
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1,NASA Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1,NASA Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1, Classic Rock
+#EXTINF:-1, Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1,PAC-12
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1  group-title=" XXX", PENTHOUSE HD
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1  group-title=" XXX", HUSTLER HD
+http://23.237.100.82:8000/HUSTLER/index.m3u8
+#EXTINF:-1  group-title=" XXX", PLAYBOY HD
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1  group-title=" XXX", BRAZZERS HD
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1  group-title=" XXX", Visit x
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Anal
+http://cdn.AdultIPTV.net/anal.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Asian
+http://cdn.AdultIPTV.net/asian.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TVt Big Ass OP1
+http://cdn.AdultIPTV.net/bigass.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Big Ass OP2
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Big Dick OP1
+http://cdn.AdultIPTV.net/bigdick.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Big Dick OP2
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Big Tits OP1
+http://cdn.AdultIPTV.net/bigtits.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Big Tits OP2
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Blonde OP1
+http://cdn.AdultIPTV.net/blonde.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Blowjob OP2
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Brunette
+http://cdn.AdultIPTV.net/brunette.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV COMPILATIONS
+http://cdn.AdultIPTV.net/compilation.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Cuckold OP1
+http://cdn.AdultIPTV.net/cuckold.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Cuckold OP2
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Fetish OP1
+http://cdn.AdultIPTV.net/fetish.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Fetish OP2
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Gay 
+http://cdn.AdultIPTV.net/gay.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Hardcore OP1
+http://cdn.AdultIPTV.net/hardcore.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Hardcore OP2
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Interracial OP1
+http://cdn.AdultIPTV.net/interracial.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Interracial OP2
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Latina OP1
+http://cdn.AdultIPTV.net/latina.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Latina OP2
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Lesbian OP1
+http://cdn.AdultIPTV.net/lesbian.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Lesbian OP2
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Live Cams 
+http://cdn.AdultIPTV.net/livecams.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV MILF OP1
+http://cdn.AdultIPTV.net/milf.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV MILF OP2
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Pornstar OP1
+http://cdn.AdultIPTV.net/pornstar.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Pornstar OP2
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV POV OP1
+http://cdn.AdultIPTV.net/pov.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV POV OP2
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Rough
+http://cdn.AdultIPTV.net/rough.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Russian OP1
+http://cdn.AdultIPTV.net/russian.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Russian OP2
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Teen OP1
+http://cdn.AdultIPTV.net/teen.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Teen OP2
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Threesome OP1
+http://cdn.AdultIPTV.net/threesome.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Threesome OP2
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Woman
+http://live.redtraffic.net/woman.m3u8
+
+
