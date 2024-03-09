@@ -112,3 +112,118 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/master.m3u8
 http://streaming.flamingotv.net/nostv/live.m3u8
 #EXTINF:-1,Telearuba (Opt-2)
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8
+#EXTINF:-1, BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="68.14",Newsmax HD
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,Law & Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1,Madison: NBC 15 News
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1,Sony Canal Novelas
+https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Sony Canal Competencias
+https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Estrella TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Estrella News
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Crime 360
+https://dab88d35ef5b44ec99be60adef855bf2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Crime360/playlist.m3u8?ads.wurl_channel=393&ads.wurl_name=Crime360&ads.psid=%7BPSID%7D&ads.us_privacy=1YNY&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,CBS News
+https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live;imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com/live&imafw__fw_did=tifa:%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D
+#EXTINF:-1,TelePacifico HD
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Telesol San Juan (Cine)
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  group-title=" XXX", PENTHOUSE HD
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1  group-title=" XXX", HUSTLER HD
+http://23.237.100.82:8000/HUSTLER/index.m3u8
+#EXTINF:-1  group-title=" XXX", PLAYBOY HD
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1  group-title=" XXX", BRAZZERS HD
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1  group-title=" XXX", Visit x
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Anal
+http://cdn.AdultIPTV.net/anal.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Asian
+http://cdn.AdultIPTV.net/asian.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TVt Big Ass OP1
+http://cdn.AdultIPTV.net/bigass.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Big Ass OP2
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Big Dick OP1
+http://cdn.AdultIPTV.net/bigdick.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Big Dick OP2
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Big Tits OP1
+http://cdn.AdultIPTV.net/bigtits.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Big Tits OP2
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Blonde OP1
+http://cdn.AdultIPTV.net/blonde.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Blowjob OP2
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Brunette
+http://cdn.AdultIPTV.net/brunette.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV COMPILATIONS
+http://cdn.AdultIPTV.net/compilation.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Cuckold OP1
+http://cdn.AdultIPTV.net/cuckold.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Cuckold OP2
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Fetish OP1
+http://cdn.AdultIPTV.net/fetish.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Fetish OP2
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Gay 
+http://cdn.AdultIPTV.net/gay.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Hardcore OP1
+http://cdn.AdultIPTV.net/hardcore.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Hardcore OP2
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Interracial OP1
+http://cdn.AdultIPTV.net/interracial.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Interracial OP2
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Latina OP1
+http://cdn.AdultIPTV.net/latina.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Latina OP2
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Lesbian OP1
+http://cdn.AdultIPTV.net/lesbian.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Lesbian OP2
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Live Cams 
+http://cdn.AdultIPTV.net/livecams.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV MILF OP1
+http://cdn.AdultIPTV.net/milf.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV MILF OP2
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Pornstar OP1
+http://cdn.AdultIPTV.net/pornstar.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Pornstar OP2
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV POV OP1
+http://cdn.AdultIPTV.net/pov.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV POV OP2
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Rough
+http://cdn.AdultIPTV.net/rough.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Russian OP1
+http://cdn.AdultIPTV.net/russian.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Russian OP2
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Teen OP1
+http://cdn.AdultIPTV.net/teen.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Teen OP2
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Threesome OP1
+http://cdn.AdultIPTV.net/threesome.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Threesome OP2
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1  group-title=" XXX", MY CAM TV Woman
+http://live.redtraffic.net/woman.m3u8
