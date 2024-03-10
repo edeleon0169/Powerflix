@@ -2,7 +2,7 @@
  # =======================================================
 # Playlist Name: Powervisionflix
 # Playlist ID: 
-# Playlist Date: 8 Marzo del 2024
+# Playlist Date: 10 Marzo del 2024
 # =======================================================
 #EXTINF:-1 tvg-id="" tvg-chno="68.53",CNN Espanol HD
 http://zwdbbyr.vpnprime.xyz:80/4740360226/4823774896/176882
@@ -37,15 +37,15 @@ http://51.81.93.29:8084/hls/d15.m3u8
 #EXTINF:-1,TELEUNION 16
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w508680712.m3u8
 #EXTINF:-1, N 16
-https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
+https://dsuub0ebctcrw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/f6936a05-a611-4eeb-834a-7b8a759e9b2a/1.m3u8
 #EXTINF:-1,ENNTIVISION
 https://rdn.essastream.com:3356/live/enntivisiontvlive.m3u8
 #EXTINF:-1,CINEVISION CANAL 19
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 #EXTINF:-1,NEXXO TV
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN MX
-http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
+#EXTINF:-1  group-title="Bics DEPORTES", ITV Deportes 
+https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 #EXTINF:-1 group-title="Bics Variados",Fox Deportes
 http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
 #EXTINF:-1 group-title="Bics Variados",BABY TV LAT
@@ -78,8 +78,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1f573f5b-a906-11eb-881a-0242ac110002&sid=1f573f5b-a906-11eb-881a-0242ac110002&userId=
 #EXTINF:-1 tvg-id="" tvg-name="CDN37  (RD)" tvg-logo="https://i.imgur.com/UM1daLg.png" group-title="REP. DOM.",CDN37 SD (RD)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1654291201&e=1654291321&h=c1121592c4e0b91b7bda5a5e48c0f973
-#EXTINF:-1 tvg-id="" tvg-name="CDN Deportes   (RD)" tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="REP. DOM.",CDN Deportes  SD (RD)
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/98c5ff12adca4abc9921e8e54f115092/chunklist_b4628000.m3u8?p=79&s=1708643189&e=1708643789&h=b0e5a7bae5b5713bbb020c93c45903c5
+#EXTINF:-1 group-title="Bics", GOLDEN
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1,CORAL 39
 https://tv.gmsiptv.com:5443/live/streams/coral.m3u8
 #EXTINF:-1 group-title="Bics", UNICABLE
@@ -136,6 +136,11 @@ https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Telesol San Juan (Cine)
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Bics Variados",ESPN MX
+http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
+
+#EXTINF:-1  group-title="Bics DEPORTES", ESPN 2
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 
 #EXTINF:-1  group-title=" XXX", PENTHOUSE HD
 http://23.237.100.82:8000/PENTHOUSE/index.m3u8
