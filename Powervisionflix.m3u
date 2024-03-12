@@ -201,8 +201,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manif
 http://138.59.177.34:8000/play/a00s/index.m3u8
 #EXTINF:-1  group-title="USA", Univision Live
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=2800000.m3u8
-
-
 #EXTINF:-1  group-title=" XXX", DESIRE HD
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title=" XXX", PENTHOUSE HD
