@@ -5,7 +5,7 @@
 # Playlist Date: 11 Marzo del 2024
 # =======================================================
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION",CNN en Español
-http://zwdbbyr.vpnprime.xyz:80/4740360226/4823774896/176882
+http://138.59.177.34:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TeleAntillas.jpg/125px-TeleAntillas.jpg" group-title="REPUBLICA DOMINICANA",Teleantillas
 http://51.81.93.29:8084/hls/tantillas.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",Univisión Latinoamérica
@@ -152,7 +152,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=v
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU",ATV
 http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", ATV +
+#EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU",ATV +
 http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS",Pasiones
 http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
