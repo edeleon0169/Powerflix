@@ -25,7 +25,7 @@ https://tv.gmsiptv.com:5443/live/streams/colorvision.m3u8?index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES",HBO Family
 http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telesistema HD (RD)" tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="REP. DOM.",Telesistema HD (RD)
-https://tv.gmsiptv.com:5443/live/streams/telesistema.m3u8?index.m3u8
+http://38.41.8.1:8000/play/a0am
 #EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION",History
 http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecentro HD (RD)" tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="REP. DOM.",Telecentro HD (RD)
@@ -46,11 +46,11 @@ https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1  group-title="Bics DEPORTES", ITV Deportes 
 https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
-#EXTINF:-1 group-title="Bics Variados",Fox Deportes
+#EXTINF:-1 tvg-chno="364" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17754_dark_360w_270h.png" group-title="PREMIUM",FOX SPORTS
 http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | BabyTV" tvg-name="USA | BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="INFANTILES",BabyTV
 http://livex.pop-app.live/s4n/poplive/ch550/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",BOOMERANG
+#EXTINF:-1 tvg-chno="361" tvg-logo="https://i.imgur.com/l6LcKZy.png" group-title="PREMIUM",Boomerang
 http://livex.pop-app.live/s4n/poplive/ch545/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="INFANTILES",Cartoon Network
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
@@ -82,7 +82,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/c
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1,CORAL 39
 https://tv.gmsiptv.com:5443/live/streams/coral.m3u8
-#EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO", 1042 | Unicable || MÉXICO
+#EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",Unicable 
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1, TELEVIDA
 https://rpn3.bozztv.com/ssh101/ssh101/televida/chunks.m3u8
@@ -114,6 +114,10 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/master.m3u8
 http://streaming.flamingotv.net/nostv/live.m3u8
 #EXTINF:-1,Telearuba (Opt-2)
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8
+#EXTINF:-1,TV 13 Direct 
+http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
+#EXTINF:-1,Nos Pais 
+https://edge5.tvdirect13.com/live/mbr/live/web.stream_720p/chunks.m3u8?nimblesessionid=27484237
 #EXTINF:-1, BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="68.14",Newsmax HD
@@ -137,18 +141,16 @@ https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw
 #EXTINF:-1,TelePacifico HD
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Telesol San Juan (Cine)
-https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES",TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN MX
+#EXTINF:-1 tvg-chno="367" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="PREMIUM",ESPN 
 http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
-#EXTINF:-1  group-title="Bics DEPORTES", ESPN 2
+#EXTINF:-1 tvg-chno="368" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="PREMIUM",ESPN 2
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
-#EXTINF:-1  group-title="Bics NOTICIAS", CNN ESP
-https://dsuub0ebctcrw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/f6936a05-a611-4eeb-834a-7b8a759e9b2a/1.m3u8
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU",Willax Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-#EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
+#EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU",TV Perú
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU",ATV
 http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
@@ -193,7 +195,12 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA",Antena 3 ESPAÑA
 http://138.59.177.34:8000/play/a00s/index.m3u8
+#EXTINF:-1  group-title="USA", Univision Live
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=2800000.m3u8
 
+
+#EXTINF:-1  group-title=" XXX", DESIRE HD
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title=" XXX", PENTHOUSE HD
 http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 #EXTINF:-1  group-title=" XXX", HUSTLER HD
