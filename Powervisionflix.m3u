@@ -4,11 +4,11 @@
 # Playlist ID: 
 # Playlist Date: 11 Marzo del 2024
 # =======================================================
-#EXTINF:-1 tvg-id="" tvg-chno="68.53",CNN Espanol HD
+#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION",CNN en Español
 http://zwdbbyr.vpnprime.xyz:80/4740360226/4823774896/176882
-#EXTINF:-1 tvg-id="" tvg-name="Teleantillas SD (RD)" tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="REP. DOM.",Teleantillas SD (RD)
+#EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TeleAntillas.jpg/125px-TeleAntillas.jpg" group-title="REPUBLICA DOMINICANA",Teleantillas
 http://51.81.93.29:8084/hls/tantillas.m3u8
-#EXTINF:-1 group-title="Entretenimiento", UNIVISION MEXICO
+#EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",Univisión Latinoamérica
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4 Full HD (RD)" tvg-logo="https://i.imgur.com/WklLnd9.png" group-title="REP. DOM.",4 Full HD (RD)
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
@@ -18,15 +18,15 @@ http://51.81.93.239:8084/hls/tmicro.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w388706928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena7 SD (RD)" tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="REP. DOM.",Antena7 SD (RD)
 https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/Antena7DO/Antena7DO1/chunks.m3u8
-#EXTINF:-1 group-title="Bics Variados",HBO PLUS LAT
+#EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES",HBO +
 http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Color Visión HD (RD)" tvg-logo="https://i.imgur.com/r98hVwB.png" group-title="REP. DOM.",Color Visión HD (RD)
 https://tv.gmsiptv.com:5443/live/streams/colorvision.m3u8?index.m3u8
-#EXTINF:-1 group-title="Bics Variados",HBO FAMILY LAT
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES",HBO Family
 http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telesistema HD (RD)" tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="REP. DOM.",Telesistema HD (RD)
 https://tv.gmsiptv.com:5443/live/streams/telesistema.m3u8?index.m3u8
-#EXTINF:-1 group-title="Bics Variados",HISTORY
+#EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION",History
 http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecentro HD (RD)" tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="REP. DOM.",Telecentro HD (RD)
 http://51.81.93.29:8084/hls/telecentro.m3u8
@@ -34,41 +34,41 @@ http://51.81.93.29:8084/hls/telecentro.m3u8
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Digital Quince HD (RD)" tvg-logo="https://i.imgur.com/3dMYndw.png" group-title="REP. DOM.",Digital Quince HD (RD)
 http://51.81.93.29:8084/hls/d15.m3u8
-#EXTINF:-1,TELEUNION 16
+#EXTINF:-1 tvg-id="DO | Teleunión" tvg-name="DO | Teleunión" tvg-logo="http://teleuniontvrd.com/portal/wp-content/themes/rt_manticore/images/logoteleunionsmall.png" group-title="REPUBLICA DOMINICANA",Teleunión
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w508680712.m3u8
-#EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="DOCUMENTALES Y SERIES", 64 | A&E
+#EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="DOCUMENTALES Y SERIES",A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 101 | HBO
+#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES",HBO
 http://138.59.177.34:8000/play/a01m/index.m3u8
-#EXTINF:-1,CINEVISION CANAL 19
+#EXTINF:-1 tvg-id="DO | Cinevisión" tvg-name="DO | Cinevisión" tvg-logo="https://canal19.do/wp-content/uploads/2021/06/cropped-Logos-Canal-19-Cinevision-1024x341.png" group-title="REPUBLICA DOMINICANA",Cinevisión
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
-#EXTINF:-1,NEXXO TV
+#EXTINF:-1 tvg-id="DO | Nexxo TV" tvg-name="DO | Nexxo TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/nexxo-tv-santiago.png" group-title="REPUBLICA DOMINICANA",Nexxo TV
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1  group-title="Bics DEPORTES", ITV Deportes 
 https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 #EXTINF:-1 group-title="Bics Variados",Fox Deportes
 http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",BABY TV LAT
+#EXTINF:-1 tvg-id="USA | BabyTV" tvg-name="USA | BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="INFANTILES",BabyTV
 http://livex.pop-app.live/s4n/poplive/ch550/playlist.m3u8
 #EXTINF:-1 group-title="Bics Variados",BOOMERANG
 http://livex.pop-app.live/s4n/poplive/ch545/playlist.m3u8
-#EXTINF:-1 group-title="Anime", Cartoon Network
+#EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="INFANTILES",Cartoon Network
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados", NICKELODEON
+#EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="INFANTILES",Nickelodeon
 http://181.78.105.146:2000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="CL | Planeta Family TV Kids" tvg-name="CL | Planeta Family TV Kids" tvg-logo="https://pbs.twimg.com/media/Frs3AxpWwAEG08o?format=png&name=240x240" group-title="INFANTILES", 153 | Planeta Family TV Kids
+#EXTINF:-1 tvg-id="CL | Planeta Family TV Kids" tvg-name="CL | Planeta Family TV Kids" tvg-logo="https://pbs.twimg.com/media/Frs3AxpWwAEG08o?format=png&name=240x240" group-title="INFANTILES",Planeta Family TV Kids
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RNN HD (RD)" tvg-logo="https://i.imgur.com/mSx4Eee.png" group-title="REP. DOM.",RNN HD (RD)
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
-#EXTINF:-1,Teleuniverso Canal 29
+#EXTINF:-1 tvg-id="DO | Teleuniverso" tvg-name="DO | Teleuniverso" tvg-logo="https://pbs.twimg.com/profile_images/1055497104175652864/3iL8w0va_400x400.jpg" group-title="REPUBLICA DOMINICANA",Teleuniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
-#EXTINF:-1 group-title="Bics Variados",ANIMAL PLANET
+#EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA Y EDUCACION",Animal Planet
 http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",CARACOL
+#EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",Canal Caracol
 http://livex.pop-app.live/s4n/poplive/ch350/playlist.m3u8
 #EXTINF:-1 group-title="Bics Variados",FX LAT
 http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",NAT GEO
+#EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="CULTURA Y EDUCACION",National Geographic
 http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
 #EXTINF:-0, Cine DRAMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0af9c627-a909-11eb-8ea0-0242ac110002&sid=0af9c627-a909-11eb-8ea0-0242ac110002&userId=
@@ -78,7 +78,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1f573f5b-a906-11eb-881a-0242ac110002&sid=1f573f5b-a906-11eb-881a-0242ac110002&userId=
 #EXTINF:-1 tvg-id="" tvg-name="CDN37  (RD)" tvg-logo="https://i.imgur.com/UM1daLg.png" group-title="REP. DOM.",CDN37 SD (RD)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1654291201&e=1654291321&h=c1121592c4e0b91b7bda5a5e48c0f973
-#EXTINF:-1 group-title="Bics", GOLDEN
+#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES",Golden
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1,CORAL 39
 https://tv.gmsiptv.com:5443/live/streams/coral.m3u8
@@ -96,7 +96,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="68.10",Nasa
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1,AME 47
+#EXTINF:-1 tvg-id="DO | Amé Televisión" tvg-name="DO | Amé Televisión" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg" group-title="REPUBLICA DOMINICANA",Amé Televisión
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w630220056.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="68.12",RT Espanol
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -138,7 +138,7 @@ https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Telesol San Juan (Cine)
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", 247 | TUDN
+#EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES",TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 group-title="Bics Variados",ESPN MX
 http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
@@ -146,53 +146,52 @@ http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 #EXTINF:-1  group-title="Bics NOTICIAS", CNN ESP
 https://dsuub0ebctcrw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/f6936a05-a611-4eeb-834a-7b8a759e9b2a/1.m3u8
-#EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
+#EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU",Willax Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-#EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
+#EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU",ATV
 http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | ATV +
+#EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", ATV +
 http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS", 55 | Pasiones
+#EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS",Pasiones
 http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS", 58 | Azteca Corazón
+#EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS",Azteca Corazón
 http://livex.pop-app.live/s4n/poplive/ch570/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="PELICULAS Y SERIES", 65 | AMC
+#EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="PELICULAS Y SERIES",AMC
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES", 119 | Cine Premium
+#EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES",Cine Premium
 http://191.97.60.193:10000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES", 120 | Cine Hispano
+#EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES",Cine Hispano
 http://191.97.60.193:10000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="PELICULAS Y SERIES", 121 | Cine Familiar
+#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="PELICULAS Y SERIES",Cine Familiar
 http://191.97.60.193:10000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-id="FR | Fashion TV" tvg-name="FR | Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/150px-Fashion_TV_logo.svg.png" group-title="ESTILOS DE VIDA", 207 | Fashion TV
+#EXTINF:-1 tvg-id="FR | Fashion TV" tvg-name="FR | Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/150px-Fashion_TV_logo.svg.png" group-title="ESTILOS DE VIDA", Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 232 | El Garage TV
+#EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", 247 | TUDN
+#EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES",TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="MX | Afizzionados" tvg-name="MX | Afizzionados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/320px-Afizzionados_Logo.svg.png" group-title="DEPORTES", 248 | Afizzionados
+#EXTINF:-1 tvg-id="MX | Afizzionados" tvg-name="MX | Afizzionados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/320px-Afizzionados_Logo.svg.png" group-title="DEPORTES",Afizzionados
 http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Creo Sport" tvg-name="PE | Creo Sport" tvg-logo="http://core1.hdlatam.tv/media/images/channel/creosport.png" group-title="DEPORTES", 257 | Creo Sport
 https://ott1.hdlatam.tv/live/Creosport/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery Channel" tvg-name="USA | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="CULTURA Y EDUCACION", 314 | Discovery Channel
+#EXTINF:-1 tvg-id="USA | Discovery Channel" tvg-name="USA | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery Channel
 http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="CULTURA Y EDUCACION", 315 | Discovery Science
+#EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery Science
 http://138.59.177.34:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", 316 | Discovery Turbo
-http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery World" tvg-name="USA | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="CULTURA Y EDUCACION", 317 | Discovery World
+#EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION",
+#EXTINF:-1 tvg-id="USA | Discovery World" tvg-name="USA | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery World
 http://138.59.177.34:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery Theater" tvg-name="USA | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA Y EDUCACION", 318 | Discovery Theater
+#EXTINF:-1 tvg-id="USA | Discovery Theater" tvg-name="USA | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery Theater
 http://138.59.177.34:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="CO | RCN Xtra" tvg-name="CO | RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="COLOMBIA", 483.3 | RCN Xtra || COLOMBIA
+#EXTINF:-1 tvg-id="CO | RCN Xtra" tvg-name="CO | RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="COLOMBIA",RCN Xtra COLOMBIA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="MEXICO", 1035 | Azteca Internacional || MÉXICO
+#EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="MEXICO", Azteca Internacional  MÉXICO
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="ES | DMAX" tvg-name="ES | DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/250px-DMAX_BLACK.svg.png" group-title="ESPAÑA", 1119 | DMAX || ESPAÑA
+#EXTINF:-1 tvg-id="ES | DMAX" tvg-name="ES | DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/250px-DMAX_BLACK.svg.png" group-title="ESPAÑA", DMAX ESPAÑA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA", 1086 | Antena 3 || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA",Antena 3 ESPAÑA
 http://138.59.177.34:8000/play/a00s/index.m3u8
 
 #EXTINF:-1  group-title=" XXX", PENTHOUSE HD
