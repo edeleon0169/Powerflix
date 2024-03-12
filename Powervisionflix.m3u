@@ -2,7 +2,7 @@
  # =======================================================
 # Playlist Name: Powervisionflix
 # Playlist ID: 01
-# Playlist Date: 11 Marzo del 2024
+# Playlist Date: 12 Marzo del 2024
 # =======================================================
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION",CNN en Español
 http://138.59.177.34:8000/play/a02n/index.m3u8
@@ -112,12 +112,16 @@ http://181.78.105.146:2000/play/a04x/index.m3u8
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nos Tv Bonaire" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flive-tv-channels.org%2Flivetv%2Fbq-nos-tv-bonaire.html&psig=AOvVaw07U1fh_bAUqnyVm8PuTeTg&ust=1648162790843000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIinvf-q3fYCFQAAAAAdAAAAABAZ" group-title="Ant. Holandesas",Nos TV Bonaire
 http://streaming.flamingotv.net/nostv/live.m3u8
-#EXTINF:-1,Telearuba (Opt-2)
+#EXTINF:-1,Telearuba 
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8
 #EXTINF:-1,TV 13 Direct 
-http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
+https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/tvdirect/stream1/index.m3u8
 #EXTINF:-1,Nos Pais 
-https://edge5.tvdirect13.com/live/mbr/live/web.stream_720p/chunks.m3u8?nimblesessionid=27484237
+http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
+#EXTINF:-1,TELECURAZAO 
+https://ott3.streann.com/loadbalancer/services/public/channels/5ed71e232cdc24a3d08cd6de/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EMGIQYP.png" group-title="",Dutch Caribbean TV	
+https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
 #EXTINF:-1, BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="68.14",Newsmax HD
