@@ -1,12 +1,12 @@
 #EXTM3U
  # =======================================================
 # Playlist Name: Powervisionflix
-# Playlist ID: 02
-# Playlist Date: 12 Marzo del 2024
+# Playlist ID: 03-24
+# Playlist Date: 13 Marzo del 2024
 # =======================================================
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION",CNN en Español
 http://138.59.177.34:8000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TeleAntillas.jpg/125px-TeleAntillas.jpg" group-title="REPUBLICA DOMINICANA",Teleantillas
+#EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TeleAntillas.jpg/125px-TeleAntillas.jpg" group-title="REP. DOM.",Teleantillas
 http://51.81.93.29:8084/hls/tantillas.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",Univisión Latinoamérica
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
@@ -14,7 +14,7 @@ https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemicro HD (RD)" tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="REP. DOM.",Telemicro HD (RD)
 http://51.81.93.239:8084/hls/tmicro.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Orbit TV" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcategory%2FElectronics-Company%2FOrbit-Tv-948640941986348%2F&psig=AOvVaw0-ihijkIxXeU6NKRO5assL&ust=1642344706298000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKCzndiAtPUCFQAAAAAdAAAAABAm" group-title="REP. DOM.",Orbit TV
+#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w388706928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena7 SD (RD)" tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="REP. DOM.",Antena7 SD (RD)
 https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/Antena7DO/Antena7DO1/chunks.m3u8
@@ -34,20 +34,20 @@ http://51.81.93.29:8084/hls/telecentro.m3u8
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Digital Quince HD (RD)" tvg-logo="https://i.imgur.com/3dMYndw.png" group-title="REP. DOM.",Digital Quince HD (RD)
 http://51.81.93.29:8084/hls/d15.m3u8
-#EXTINF:-1 tvg-id="DO | Teleunión" tvg-name="DO | Teleunión" tvg-logo="http://teleuniontvrd.com/portal/wp-content/themes/rt_manticore/images/logoteleunionsmall.png" group-title="REPUBLICA DOMINICANA",Teleunión
+#EXTINF:-1 tvg-id="DO | Teleunión" tvg-name="DO | Teleunión" tvg-logo="http://teleuniontvrd.com/portal/wp-content/themes/rt_manticore/images/logoteleunionsmall.png" group-title="REP. DOM.",Teleunión
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w508680712.m3u8
-#EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="DOCUMENTALES Y SERIES",A&E
-http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES",HBO
-http://138.59.177.34:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="DO | Cinevisión" tvg-name="DO | Cinevisión" tvg-logo="https://canal19.do/wp-content/uploads/2021/06/cropped-Logos-Canal-19-Cinevision-1024x341.png" group-title="REPUBLICA DOMINICANA",Cinevisión
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies;Series",HBO2
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Cinevisión" tvg-name="DO | Cinevisión" tvg-logo="https://canal19.do/wp-content/uploads/2021/06/cropped-Logos-Canal-19-Cinevision-1024x341.png" group-title="REP. DOM.",Cinevisión
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
-#EXTINF:-1 tvg-id="DO | Nexxo TV" tvg-name="DO | Nexxo TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/nexxo-tv-santiago.png" group-title="REPUBLICA DOMINICANA",Nexxo TV
+#EXTINF:-1 tvg-id="DO | Nexxo TV" tvg-name="DO | Nexxo TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/nexxo-tv-santiago.png" group-title="REP. DOM.",Nexxo TV
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
-#EXTINF:-1  group-title="Bics DEPORTES", ITV Deportes 
-https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 #EXTINF:-1 tvg-chno="364" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17754_dark_360w_270h.png" group-title="PREMIUM",FOX SPORTS
 http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+#EXTINF:-1, TVS CANAL 22
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1 tvg-id="USA | BabyTV" tvg-name="USA | BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="INFANTILES",BabyTV
 http://livex.pop-app.live/s4n/poplive/ch550/playlist.m3u8
 #EXTINF:-1 tvg-chno="361" tvg-logo="https://i.imgur.com/l6LcKZy.png" group-title="PREMIUM",Boomerang
@@ -60,7 +60,7 @@ http://181.78.105.146:2000/play/a014/index.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RNN HD (RD)" tvg-logo="https://i.imgur.com/mSx4Eee.png" group-title="REP. DOM.",RNN HD (RD)
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
-#EXTINF:-1 tvg-id="DO | Teleuniverso" tvg-name="DO | Teleuniverso" tvg-logo="https://pbs.twimg.com/profile_images/1055497104175652864/3iL8w0va_400x400.jpg" group-title="REPUBLICA DOMINICANA",Teleuniverso
+#EXTINF:-1 tvg-id="DO | Teleuniverso" tvg-name="DO | Teleuniverso" tvg-logo="https://pbs.twimg.com/profile_images/1055497104175652864/3iL8w0va_400x400.jpg" group-title="REP. DOM.",Teleuniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA Y EDUCACION",Animal Planet
 http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
@@ -96,20 +96,51 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="68.10",Nasa
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="DO | Amé Televisión" tvg-name="DO | Amé Televisión" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg" group-title="REPUBLICA DOMINICANA",Amé Televisión
+#EXTINF:-1 tvg-id="DO | Amé Televisión" tvg-name="DO | Amé Televisión" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg" group-title="REP. DOM.",Amé Televisión
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w630220056.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="68.12",RT Espanol
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1, TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
-#EXTINF:-1, DW ESP
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NOTICIAS",DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1,TNI 51
+#EXTINF:-1 tvg-id="756" tvg-name="TNI 51" tvg-logo="https://cdn.m3u.cl/logo/756_TNI_51.jpg", TNI 51
 https://ss5.domint.net:3188/tni_str/tni51/chunklist_w821986247.m3u8
 #EXTINF:-1 group-title="Bics Variados",Space MX
 http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:-1,READY TV
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w214036631.m3u8
+#EXTINF:-1,LUNA TV 53
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1, Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/master.m3u8
+#EXTINF:-1,SUPER TV 55
+https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w1529390917.m3u8
+#EXTINF:-1,TELESUR LAS MATAS DE FARFAN
+https://ss3.domint.net:3124/tls_str/telesur/chunklist_w1220223854.m3u8
+#EXTINF:-1  group-title="Bics DEPORTES", ITV Deportes 
+https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="ESPAÑA",Antena 3 Internacional
+http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
+http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Movies",Az Cinema
+http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
+#EXTINF:-1 tvg-id="AzClic.mx" tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entertainment",Az Clic
+http://stream.flynetwifi.com:1935/live/mobile-119/playlist.m3u8
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Series",Az Corazon
+http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Movies",Film & Arts
+http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",France 24 Español (1080p)
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="DOCUMENTALES Y SERIES",A&E
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="General",Telemundo Internacional
+http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Nos Tv Bonaire" tvg-logo="https://photos.live-tv-channels.org/tv-logo/nos-tv-bonaire-7850-w360.webp&psig=AOvVaw07U1fh_bAUqnyVm8PuTeTg&ust=1648162790843000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIinvf-q3fYCFQAAAAAdAAAAABAZ" group-title="Ant. Holandesas",Nos TV Bonaire
 http://streaming.flamingotv.net/nostv/live.m3u8
 #EXTINF:-1,Telearuba 
@@ -296,3 +327,4 @@ http://cdn.AdultIPTV.net/threesome.m3u8
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1  group-title=" XXX", MY CAM TV Woman
 http://live.redtraffic.net/woman.m3u8
+
