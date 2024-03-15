@@ -148,9 +148,9 @@ http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="MX | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES",Space MX
 http://181.78.105.146:2000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nos Tv Bonaire" tvg-logo="https://www.google.com.do/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FNOSTV24%2F&psig=AOvVaw0NSkgReuAQAVq9SmlwoYd-&ust=1710547420876000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICapO779IQDFQAAAAAdAAAAABAD" group-title="ARUBA",Nos TV Bonaire
+#EXTINF:-1 tvg-id="" tvg-name="Nos Tv Bonaire" tvg-logo="https://www.nostvbonaire.com/wp-content/uploads/2019/01/cropped-LOGO-NOSTV-WEBSITE-2019-1.png" group-title="ARUBA",Nos TV Bonaire
 http://streaming.flamingotv.net/nostv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tele Aruba" tvg-logo="https://www.google.com.do/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FTelearubanv%2F&psig=AOvVaw0v0VmF8xMhYqwhSal95u6F&ust=1710547559471000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDIobH89IQDFQAAAAAdAAAAABAD" group-title="ARUBA",Tele Aruba
+#EXTINF:-1 tvg-id="" tvg-name="Tele Aruba" tvg-logo="https://telearuba.aw/static/media/telearuba_logo.5f536209.svg" group-title="ARUBA",Tele Aruba
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://tvdirect13.com/img/tvdirect13-w.png" group-title="Curaçao",TV Direct 13
 https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/tvdirect/stream1/index.m3u8
@@ -337,4 +337,5 @@ http://cdn.AdultIPTV.net/threesome.m3u8
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1  group-title=" XXX", MY CAM TV Woman
 http://live.redtraffic.net/woman.m3u8
+
 
