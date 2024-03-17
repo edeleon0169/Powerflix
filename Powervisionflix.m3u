@@ -18,15 +18,15 @@ http://51.81.93.239:8084/hls/tmicro.m3u8
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena7 SD (RD)" tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="REP. DOM.",Antena7 SD (RD)
 https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/Antena7DO/Antena7DO1/chunks.m3u8
-#EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",AION TV (1080p)
+#EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="REP. DOM.",AION TV (1080p)
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Color Visión HD (RD)" tvg-logo="https://i.imgur.com/r98hVwB.png" group-title="REP. DOM.",Color Visión HD (RD)
 http://138.59.177.34:8000/play/a04u/index.m3u8
-#EXTINF:-1 tvg-id="Telenord10.do" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Undefined",Telenord Canal 10 (720p)
+#EXTINF:-1 tvg-id="Telenord10.do" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="REP. DOM.",Telenord Canal 10 (720p)
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telesistema HD (RD)" tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="REP. DOM.",Telesistema HD (RD)
 http://38.41.8.1:8000/play/a0am
-#EXTINF:-1 tvg-id="Telecanal12.do" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="Undefined",Telecanal 12 
+#EXTINF:-1 tvg-id="Telecanal12.do" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="REP. DOM.",Telecanal 12 
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecentro HD (RD)" tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="REP. DOM.",Telecentro HD (RD)
 http://51.81.93.29:8084/hls/telecentro.m3u8
@@ -56,4 +56,41 @@ https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
 https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
 #EXTINF:-1 tvg-id="DO | Teleuniverso" tvg-name="DO | Teleuniverso" tvg-logo="https://pbs.twimg.com/profile_images/1055497104175652864/3iL8w0va_400x400.jpg" group-title="REP. DOM.",Teleuniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
-
+#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="REP. DOM.",Boreal (720p)
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="REP. DOM.",COCO TV (720p)
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:-1 tvg-id="entelevision.do" tvg-logo="https://i.imgur.com/gVtLpMD.png" group-title="REP. DOM.",Entelevisión (720p)
+https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
+#EXTINF:-1 tvg-id="FRATATV.do" tvg-logo="https://i.imgur.com/VxeTREd.png" group-title="REP. DOM.",FRATA TV (720p)
+https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
+#EXTINF:-1 tvg-id="NisibonTV.do" tvg-logo="https://i.imgur.com/DSWrKyb.png" group-title="REP. DOM.",Nisibon TV (480p)
+https://250weu.bozztv.com/ssh101/ssh101/nisibontv48/playlist.m3u8
+#EXTINF:-1 tvg-id="CibaenaTV.do" tvg-logo="https://i.imgur.com/iHjdckl.png" group-title="REP. DOM.",Cibaeña TV (720p)
+https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
+#EXTINF:-1 tvg-id="ConstanzaTV.do" tvg-logo="https://i.imgur.com/4uV90gw.png" group-title="REP. DOM.",ConstanzaTV (720p)
+https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CDN37  (RD)" tvg-logo="https://i.imgur.com/UM1daLg.png" group-title="REP. DOM.",CDN37 SD (RD)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1654291201&e=1654291321&h=c1121592c4e0b91b7bda5a5e48c0f973
+#EXTINF:-1 tvg-id="CromTV.do" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="REP. DOM.",CromTV (480p)
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+#EXTINF:-1 tvg-id="Coral 39" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2023/11/Coral-1.png" group-title="REP. DOM." Coral 39
+https://tv.gmsiptv.com:5443/live/streams/coral.m3u8
+#EXTINF:-1 tvg-id="DimeloTV.do" tvg-logo="https://i.imgur.com/BVsotpP.png" group-title="REP. DOM.",Dimelo TV (1080p)
+https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
+#EXTINF:-1 tvg-id="GHTelevision.do" tvg-logo="https://i.imgur.com/xhkiiO3.png" group-title="Religious",GH Television (1080p)
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+#EXTINF:-1 tvg-id="DO | Tele Vida" tvg-name="DO | Tele Vida" tvg-logo="https://televida.org.do/wp-content/uploads/2018/02/LOGOS_TELEVIDA_Movil-01.png" group-title="RELIGIOSOS",Tele Vida
+https://rpn3.bozztv.com/ssh101/ssh101/televida/chunks.m3u8
+#EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="REP. DOM.",Romana TV Canal 42 (480p)
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 tvg-id="Telenovisa43.do" tvg-logo="https://i.imgur.com/iHvf3bR.png" group-title="Family;REP. DOM.",Telenovisa 43 (720p)
+https://stream.castr.com/6596360f8738a7e5762486ef/live_252446c0ab2811eea7f3c9e195038c96/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace (720p)
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ClaroVisionTV.do" tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="REP. DOM.",Claro Visión TV (720p)
+https://rr1---sn-ab5l6nkd.googlevideo.com/videoplayback?expire=1710723220&ei=NDz3ZYjTM-Dhj-8P8f-iyAQ&ip=138.99.215.147&id=o-AEG1uXD50nmXLD38TtRvJo4E5Z-sr7uLxDRFSg5nAGus&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&spc=UWF9f7v1hUIDK_QtextBMUQcU69ucC2u3odgisMX3fSrRWU&vprv=1&svpuc=1&mime=video%2Fmp4&ns=Sbm_aLzBdxrR6EqfqzZT-KMQ&gir=yes&clen=1375036&dur=56.199&lmt=1636838506480411&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=5316224&n=m3XGRz4YjVXWQQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgQios1IEhKvpMGWMA3Bc0Zi71icTQH_p7rnAAdb_LhecCIQC9Gyx5vm8xr1sveK_2d9JYRd-c0pWP_myFTpfe_x9eGg%3D%3D&pot=Iji8H7wc2eiANv94yFXeSolx6C36V_EvjW7xXNVlkVHFaf519VT_ePZb6mf1Wvt4_XjleJks-DqPWw%3D%3D&redirect_counter=1&cm2rm=sn-qpbpjxa-j0ge7e&req_id=49e15f5b1230a3ee&cms_redirect=yes&cmsv=e&mh=Jx&mm=29&mn=sn-ab5l6nkd&ms=rdu&mt=1710701342&mv=m&mvi=1&...
+#EXTINF:-1 tvg-id="CieloTV.do" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="REP. DOM.",Cielo TV (1080p)
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Amé Televisión" tvg-name="DO | Amé Televisión" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg" group-title="REP. DOM.",Amé Televisión
+https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w630220056.m3u8
